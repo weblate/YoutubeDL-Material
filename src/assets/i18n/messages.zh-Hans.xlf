@@ -742,7 +742,7 @@
       </trans-unit>
       <trans-unit id="bc9892814ee2d119ae94378c905ea440a249b84a" datatype="html">
         <source>Base path for videos from your subscribed channels and playlists. It is relative to YTDL-Material's root folder.</source>
-        <target>订阅频道和播放列表中视频的文件路径。相对于根文件夹</target>
+        <target>订阅频道和播放列表中视频的文件路径（相对于根文件夹而言）。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">73</context>
@@ -1553,7 +1553,7 @@
       </trans-unit>
       <trans-unit id="4f8b2bb476981727ab34ed40fde1218361f92c45" datatype="html">
         <source>Details</source>
-        <target>详细信息</target>
+        <target>详细</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/download-item/download-item.component.html</context>
           <context context-type="linenumber">18</context>
@@ -1751,7 +1751,7 @@
       </trans-unit>
       <trans-unit id="4636cd4a1379c50d471e98786098c4d39e1e82ad" datatype="html">
         <source>You have no channel subscriptions.</source>
-        <target>您尚未订阅任何频道</target>
+        <target>您尚未订阅任何频道。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/subscriptions/subscriptions.component.html</context>
           <context context-type="linenumber">24</context>
@@ -1823,7 +1823,7 @@
       </trans-unit>
       <trans-unit id="1372e61c5bd06100844bd43b98b016aabc468f62" datatype="html">
         <source>Select a version:</source>
-        <target>选择一个版本：</target>
+        <target>选择版本：</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/updater/updater.component.html</context>
           <context context-type="linenumber">3</context>
@@ -2066,6 +2066,204 @@
           <context context-type="linenumber">12</context>
         </context-group>
         <note priority="1" from="description">Audio</note>
+      </trans-unit>
+      <trans-unit id="ccf5ea825526ac490974336cb5c24352886abc07" datatype="html">
+        <source>Open file</source>
+        <target>打开文件</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/unified-file-card/unified-file-card.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">Open file button</note>
+      </trans-unit>
+      <trans-unit id="8a0bda4c47f10b2423ff183acefbf70d4ab52ea2" datatype="html">
+        <source>Clear logs</source>
+        <target>清空日志</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/logs-viewer/logs-viewer.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <note priority="1" from="description">Clear logs button</note>
+      </trans-unit>
+      <trans-unit id="95b95a9c79e4fd9ed41f6855e37b3b06af25bcab" datatype="html">
+        <source>Delete user</source>
+        <target>删除用户</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/modify-users/modify-users.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+        <note priority="1" from="description">delete user action button tooltip</note>
+      </trans-unit>
+      <trans-unit id="632e8b20c98e8eec4059a605a4b011bb476137af" datatype="html">
+        <source>Edit user</source>
+        <target>编辑用户</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/modify-users/modify-users.component.html</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+        <note priority="1" from="description">edit user action button tooltip</note>
+      </trans-unit>
+      <trans-unit id="b6c453e0e61faea184bbaf5c5b0a1e164f4de2a2" datatype="html">
+        <source>Clear all downloads</source>
+        <target>清空所有下载</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/downloads/downloads.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <note priority="1" from="description">clear all downloads action button</note>
+      </trans-unit>
+      <trans-unit id="080cc6abcba236390fc22e79792d0d3443a3bd2a" datatype="html">
+        <source>Bind Credentials</source>
+        <target>绑定凭证</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">328</context>
+        </context-group>
+        <note priority="1" from="description">Bind Credentials</note>
+      </trans-unit>
+      <trans-unit id="f50fa6c09c8944aed504f6325f2913ee6c7a296a" datatype="html">
+        <source>Bind DN</source>
+        <target>绑定DN</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">323</context>
+        </context-group>
+        <note priority="1" from="description">Bind DN</note>
+      </trans-unit>
+      <trans-unit id="1db9789b93069861019bd0ccaa5d4706b00afc61" datatype="html">
+        <source>LDAP URL</source>
+        <target>LDAP链接</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">318</context>
+        </context-group>
+        <note priority="1" from="description">LDAP URL</note>
+      </trans-unit>
+      <trans-unit id="fa548cee6ea11c160a416cac3e6bdec0363883dc" datatype="html">
+        <source>Auth method</source>
+        <target>认证方式</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">306</context>
+        </context-group>
+        <note priority="1" from="description">Auth method select</note>
+      </trans-unit>
+      <trans-unit id="e3d7c5f019e79a3235a28ba24df24f11712c7627" datatype="html">
+        <source>LDAP</source>
+        <target>LDAP认证</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">311</context>
+        </context-group>
+        <note priority="1" from="description">LDAP auth method</note>
+      </trans-unit>
+      <trans-unit id="4f56ced9d6b85aeb1d4346433361d47ea72dac1a" datatype="html">
+        <source>Internal</source>
+        <target>内部身份验证</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">308</context>
+        </context-group>
+        <note priority="1" from="description">Internal auth method</note>
+      </trans-unit>
+      <trans-unit id="db6c192032f4cab809aad35215f0aa4765761897" datatype="html">
+        <source>Login expiration</source>
+        <target>您的登录已到期</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">268</context>
+        </context-group>
+        <note priority="1" from="description">Login expiration select label</note>
+      </trans-unit>
+      <trans-unit id="0c43af932e6a4ee85500e28f01b3538b4eb27bc4" datatype="html">
+        <source>Log Level</source>
+        <target>日志等级</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">256</context>
+        </context-group>
+        <note priority="1" from="description">Log Level label</note>
+      </trans-unit>
+      <trans-unit id="00a94f58d9eb2e3aa561440eabea616d0c937fa2" datatype="html">
+        <source>This will delete your old API key!</source>
+        <target>这将删除您的旧API密钥！</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">187</context>
+        </context-group>
+        <note priority="1" from="description">delete api key tooltip</note>
+      </trans-unit>
+      <trans-unit id="384de8f8f112c9e6092eb2698706d391553f3e8d" datatype="html">
+        <source>Include metadata</source>
+        <target>包含元数据</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+        <note priority="1" from="description">Include metadata setting</note>
+      </trans-unit>
+      <trans-unit id="a8b7b9c168fd936a75e500806a8c0d7755ef1198" datatype="html">
+        <source>NOTE: Uploading new cookies will override your previous cookies. Also note that cookies are instance-wide, not per-user.</source>
+        <target>注意：加载新的Cookies将覆盖您以前的Cookie。并且Cookies的范围是整个实例，而不是每个用户单独分开的。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/cookies-uploader-dialog/cookies-uploader-dialog.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">Cookies upload warning</note>
+      </trans-unit>
+      <trans-unit id="511b600ae4cf037e4eb3b7a58410842cd5727490" datatype="html">
+        <source>Add more content</source>
+        <target>添加更多内容</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/modify-playlist/modify-playlist.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <note priority="1" from="description">Add more content</note>
+      </trans-unit>
+      <trans-unit id="d02888c485d3aeab6de628508f4a00312a722894" datatype="html">
+        <source>My videos</source>
+        <target>我的视频</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/recent-videos/recent-videos.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">My videos title</note>
+      </trans-unit>
+      <trans-unit id="a0720c36ee1057e5c54a86591b722485c62d7b1a" datatype="html">
+        <source>Go to subscription</source>
+        <target>前往订阅</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/unified-file-card/unified-file-card.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">Go to subscription menu item</note>
+      </trans-unit>
+      <trans-unit id="5656a06f17c24b2d7eae9c221567b209743829a9" datatype="html">
+        <source>Open file in new tab</source>
+        <target>在新标签页打开文件</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/unified-file-card/unified-file-card.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <note priority="1" from="description">Open file in new tab</note>
+      </trans-unit>
+      <trans-unit id="348cc5d553b18e862eb1c1770e5636f6b05ba130" datatype="html">
+        <source>An error has occurred</source>
+        <target>出现错误</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/download-item/download-item.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <note priority="1" from="description">download error tooltip</note>
+      </trans-unit>
+      <trans-unit id="4d8a18b04a1f785ecd8021ac824e0dfd5881dbfc" datatype="html">
+        <source>The download was successful</source>
+        <target>下载成功</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/download-item/download-item.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <note priority="1" from="description">download successful tooltip</note>
       </trans-unit>
     </body>
   </file>
