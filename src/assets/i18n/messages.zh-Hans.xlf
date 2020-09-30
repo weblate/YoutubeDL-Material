@@ -2031,6 +2031,42 @@
         </context-group>
         <note priority="1" from="description">Label for lines select in logger view</note>
       </trans-unit>
+      <trans-unit id="ffc19f32b1cba0daefc0e5668f89346db1db83ad" datatype="html">
+        <source>Include thumbnail</source>
+        <target>包括缩略图</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+        <note priority="1" from="description">Include thumbnail setting</note>
+      </trans-unit>
+      <trans-unit id="f61c6867295f3b53d23557021f2f4e0aa1d0b8fc" datatype="html">
+        <source>Type</source>
+        <target>类型</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/create-playlist/create-playlist.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <note priority="1" from="description">Type select</note>
+      </trans-unit>
+      <trans-unit id="2d1ea268a6a9f483dbc2cbfe19bf4256a57a6af4" datatype="html">
+        <source>Video</source>
+        <target>视频</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/create-playlist/create-playlist.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">Video</note>
+      </trans-unit>
+      <trans-unit id="f0baeb8b69d120073b6d60d34785889b0c3232c8" datatype="html">
+        <source>Audio</source>
+        <target>音频</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/create-playlist/create-playlist.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <note priority="1" from="description">Audio</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
