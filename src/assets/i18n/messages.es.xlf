@@ -1161,6 +1161,33 @@
         </context-group>
         <note priority="1" from="description">download successful tooltip</note>
       </trans-unit>
+      <trans-unit id="544e09cdc99a8978f48521d45f62db0da6dcf742" datatype="html">
+        <source>Use role default</source>
+        <target>Usar rol predeterminado</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/manage-user/manage-user.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <note priority="1" from="description">Use role default</note>
+      </trans-unit>
+      <trans-unit id="b6c453e0e61faea184bbaf5c5b0a1e164f4de2a2" datatype="html">
+        <source>Clear all downloads</source>
+        <target>Claro todas las descargas</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/downloads/downloads.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <note priority="1" from="description">clear all downloads action button</note>
+      </trans-unit>
+      <trans-unit id="3697f8583ea42868aa269489ad366103d94aece7" datatype="html">
+        <source>Editing</source>
+        <target>Editando</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/edit-subscription-dialog/edit-subscription-dialog.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">Edit subscription dialog title prefix</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
