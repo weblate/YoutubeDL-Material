@@ -1931,6 +1931,87 @@
         </context-group>
         <note priority="1" from="description">Streaming-only mode</note>
       </trans-unit>
+      <trans-unit id="eb3d5aefff38a814b76da74371cbf02c0789a1ef" datatype="html">
+        <source>Logs</source>
+        <target>Logs</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">314</context>
+        </context-group>
+        <note priority="1" from="description">Logs settings label</note>
+      </trans-unit>
+      <trans-unit id="80651a7ad1229ea6613557d3559f702cfa5aecf5" datatype="html">
+        <source>Set Cookies</source>
+        <target>Cookies setzen</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">298</context>
+        </context-group>
+        <note priority="1" from="description">Set cookies button</note>
+      </trans-unit>
+      <trans-unit id="431e5f3a0dde88768d1074baedd65266412b3f02" datatype="html">
+        <source>Use Cookies</source>
+        <target>Cookies verwenden</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">297</context>
+        </context-group>
+        <note priority="1" from="description">Use cookies setting</note>
+      </trans-unit>
+      <trans-unit id="d01715b75228878a773ae6d059acc639d4898a03" datatype="html">
+        <source>Safe download override</source>
+        <target>Safe download aufheben</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">157</context>
+        </context-group>
+        <note priority="1" from="description">Safe download override setting</note>
+      </trans-unit>
+      <trans-unit id="85e0725c870b28458fd3bbba905397d890f00a69" datatype="html">
+        <source>NOTE: Uploading new cookies will overrride your previous cookies. Also note that cookies are instance-wide, not per-user.</source>
+        <target>Beachte: Neu hochgeladene Cookies überschreiben die vorherigen. Cookies sind global und gelten nicht auf einer Pro-Benutzer-Basis.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/cookies-uploader-dialog/cookies-uploader-dialog.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">Cookies upload warning</note>
+      </trans-unit>
+      <trans-unit id="98a8a42e5efffe17ab786636ed0139b4c7032d0e" datatype="html">
+        <source>Drag and Drop</source>
+        <target>Drag and Drop</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/cookies-uploader-dialog/cookies-uploader-dialog.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <note priority="1" from="description">Drag and Drop</note>
+      </trans-unit>
+      <trans-unit id="ebadf946ae90f13ecd0c70f09edbc0f983af8a0f" datatype="html">
+        <source>Upload new cookies</source>
+        <target>Neue Cookies hochladen</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/cookies-uploader-dialog/cookies-uploader-dialog.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">Cookies uploader dialog title</note>
+      </trans-unit>
+      <trans-unit id="28f86ffd419b869711aa13f5e5ff54be6d70731c" datatype="html">
+        <source>Edit</source>
+        <target>Bearbeiten</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/file-card/file-card.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <note priority="1" from="description">Playlist edit button</note>
+      </trans-unit>
+      <trans-unit id="4f389e41e4592f7f9bb76abdd8af4afdfb13f4f1" datatype="html">
+        <source>Modify playlist</source>
+        <target>Playlist bearbeiten</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/modify-playlist/modify-playlist.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">Modify playlist dialog title</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
