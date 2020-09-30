@@ -1188,6 +1188,33 @@
         </context-group>
         <note priority="1" from="description">Edit subscription dialog title prefix</note>
       </trans-unit>
+      <trans-unit id="0c43af932e6a4ee85500e28f01b3538b4eb27bc4" datatype="html">
+        <source>Log Level</source>
+        <target>Nivel de registro</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">256</context>
+        </context-group>
+        <note priority="1" from="description">Log Level label</note>
+      </trans-unit>
+      <trans-unit id="a8b7b9c168fd936a75e500806a8c0d7755ef1198" datatype="html">
+        <source>NOTE: Uploading new cookies will override your previous cookies. Also note that cookies are instance-wide, not per-user.</source>
+        <target>NOTA: La carga de cookies nuevas anulará las cookies anteriores y las cookies son para toda la instancia, no por usuario.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/cookies-uploader-dialog/cookies-uploader-dialog.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">Cookies upload warning</note>
+      </trans-unit>
+      <trans-unit id="511b600ae4cf037e4eb3b7a58410842cd5727490" datatype="html">
+        <source>Add more content</source>
+        <target>Agregar más contenido</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/modify-playlist/modify-playlist.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <note priority="1" from="description">Add more content</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
