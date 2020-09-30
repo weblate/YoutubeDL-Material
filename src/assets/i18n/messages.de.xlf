@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="17f0ea5d2d7a262b0e875acc70475f102aee84e6" datatype="html">
         <source>Create a playlist</source>
-        <target xml:lang="de-DE">Playlist erstellen</target>
+        <target xml:lang="de-DE">Wiedergabeliste erstellen</target>
         <note from="description" priority="1">Create a playlist dialog title</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/create-playlist/create-playlist.component.html</context>
@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit id="47546e45bbb476baaaad38244db444c427ddc502" datatype="html">
         <source>Playlists</source>
-        <target xml:lang="de-DE">Playlisten</target>
+        <target xml:lang="de-DE">Wiedergabelisten</target>
         <note from="description" priority="1">Playlists title</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
@@ -852,7 +852,7 @@
       </trans-unit>
       <trans-unit id="0ba25ad86a240576c4f20a2fada4722ebba77b1e" datatype="html">
         <source>Downloader</source>
-        <target xml:lang="de-DE">Downloader</target>
+        <target xml:lang="de-DE">Herunterlader</target>
         <note from="description" priority="1">Downloader settings label</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
@@ -1170,7 +1170,7 @@
       </trans-unit>
       <trans-unit id="199c17e5d6a419313af3c325f06dcbb9645ca618" datatype="html">
         <source>is an open-source YouTube downloader built under Google's Material Design specifications. You can seamlessly download your favorite videos as video or audio files, and even subscribe to your favorite channels and playlists to keep updated with their new videos.</source>
-        <target xml:lang="de-DE">ist ein Open-Source YouTube-Downloader, der nach den Material-Design-Richtlinien von Google erstellt wurde. Sie können Ihre Lieblingsvideos reibungslos als Video- oder Audiodateien herunterladen und sogar Ihre Lieblingskanäle und Wiedergabelisten abonnieren, um auf dem Laufenden zu bleiben.</target>
+        <target xml:lang="de-DE">ist ein quelloffener YouTube-Downloader, der nach den Material-Design-Richtlinien von Google erstellt wurde. Sie können Ihre Lieblingsvideos reibungslos als Video- oder Audiodateien herunterladen und sogar Ihre Lieblingskanäle und Wiedergabelisten abonnieren, um auf dem Laufenden zu bleiben.</target>
         <note from="description" priority="1">About first paragraph</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/about-dialog/about-dialog.component.html</context>
@@ -1233,7 +1233,7 @@
       </trans-unit>
       <trans-unit id="e1f398f38ff1534303d4bb80bd6cece245f24016" datatype="html">
         <source>to create an issue!</source>
-        <target xml:lang="de-DE">um ein Ticket zu öffnen.</target>
+        <target xml:lang="de-DE">um ein Ticket zu öffnen!</target>
         <note from="description" priority="1">About bug suffix</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/about-dialog/about-dialog.component.html</context>
@@ -1363,7 +1363,7 @@
       </trans-unit>
       <trans-unit id="822fab38216f64e8166d368b59fe756ca39d301b" datatype="html">
         <source>Downloads</source>
-        <target xml:lang="de-DE">Downloads</target>
+        <target xml:lang="de-DE">Heruntergeladene</target>
         <note from="description" priority="1">Navigation menu Downloads Page title</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
@@ -1372,7 +1372,7 @@
       </trans-unit>
       <trans-unit id="a249a5ae13e0835383885aaf697d2890cc3e53e9" datatype="html">
         <source>Share playlist</source>
-        <target xml:lang="de-DE">Playlist teilen</target>
+        <target xml:lang="de-DE">Wiedergabeliste teilen</target>
         <note from="description" priority="1">Share playlist dialog title</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/share-media-dialog/share-media-dialog.component.html</context>
@@ -1489,7 +1489,7 @@
       </trans-unit>
       <trans-unit id="a9806cf78ce00eb2613eeca11354a97e033377b8" datatype="html">
         <source>Subscribe to playlist or channel</source>
-        <target xml:lang="de-DE">Abonnieren Sie eine Playlist oder einen Kanal</target>
+        <target xml:lang="de-DE">Abonnieren Sie eine Wiedergabeliste oder einen Kanal</target>
         <note from="description" priority="1">Subscribe dialog title</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/subscribe-dialog/subscribe-dialog.component.html</context>
@@ -1498,7 +1498,7 @@
       </trans-unit>
       <trans-unit id="93efc99ae087fc116de708ecd3ace86ca237cf30" datatype="html">
         <source>The playlist or channel URL</source>
-        <target xml:lang="de-DE">Playlist oder Kanal URL</target>
+        <target xml:lang="de-DE">URL der Wiedergabeliste oder des Kanales</target>
         <note from="description" priority="1">Subscription URL input hint</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/subscribe-dialog/subscribe-dialog.component.html</context>
@@ -1633,7 +1633,7 @@
       </trans-unit>
       <trans-unit id="2e0a410652cb07d069f576b61eab32586a18320d" datatype="html">
         <source>Name not available. Playlist retrieval in progress.</source>
-        <target xml:lang="de-DE">Name nicht verfügbar. Playlist wird abgerufen...</target>
+        <target xml:lang="de-DE">Name nicht verfügbar. Wiedergabeliste wird abgerufen.</target>
         <note from="description" priority="1">Subscription playlist not available text</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/subscriptions/subscriptions.component.html</context>
@@ -1642,7 +1642,7 @@
       </trans-unit>
       <trans-unit id="587b57ced54965d8874c3fd0e9dfedb987e5df04" datatype="html">
         <source>You have no playlist subscriptions.</source>
-        <target xml:lang="de-DE">Sie haben keine Playlisten abonniert.</target>
+        <target xml:lang="de-DE">Sie haben keine Wiedergabeliste abonniert.</target>
         <note from="description" priority="1">No playlist subscriptions text</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/subscriptions/subscriptions.component.html</context>
@@ -1687,7 +1687,7 @@
       </trans-unit>
       <trans-unit id="91ecce65f1d23f9419d1c953cd6b7bc7f91c110e" datatype="html">
         <source>Updater</source>
-        <target xml:lang="de-DE">Updater</target>
+        <target xml:lang="de-DE">Aktualisierungsprogramm</target>
         <note from="description" priority="1">Update progress dialog title</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/update-progress-dialog/update-progress-dialog.component.html</context>
@@ -1736,7 +1736,7 @@
       </trans-unit>
       <trans-unit id="7117fc42f860e86d983bfccfcf2654e5750f3406" datatype="html">
         <source>No downloads available!</source>
-        <target xml:lang="de-DE">Zurzeit sind keine Downloads verfügbar.</target>
+        <target xml:lang="de-DE">Zurzeit sind keine Herunterladen-Ereignisse verfügbar!</target>
         <note from="description" priority="1">No downloads label</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/components/downloads/downloads.component.html</context>
@@ -1933,7 +1933,7 @@
       </trans-unit>
       <trans-unit id="eb3d5aefff38a814b76da74371cbf02c0789a1ef" datatype="html">
         <source>Logs</source>
-        <target>Logs</target>
+        <target>Protokolle</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">314</context>
@@ -1978,7 +1978,7 @@
       </trans-unit>
       <trans-unit id="98a8a42e5efffe17ab786636ed0139b4c7032d0e" datatype="html">
         <source>Drag and Drop</source>
-        <target>Drag and Drop</target>
+        <target>Ziehen-und-Ablegen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/cookies-uploader-dialog/cookies-uploader-dialog.component.html</context>
           <context context-type="linenumber">11</context>
@@ -2005,12 +2005,129 @@
       </trans-unit>
       <trans-unit id="4f389e41e4592f7f9bb76abdd8af4afdfb13f4f1" datatype="html">
         <source>Modify playlist</source>
-        <target>Playlist bearbeiten</target>
+        <target>Wiedergabeliste bearbeiten</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/modify-playlist/modify-playlist.component.html</context>
           <context context-type="linenumber">1</context>
         </context-group>
         <note priority="1" from="description">Modify playlist dialog title</note>
+      </trans-unit>
+      <trans-unit id="e01d54ecc1a0fcf9525a3c100ed8b83d94e61c23" datatype="html">
+        <source>Search Filter</source>
+        <target>Suchfilter</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">338</context>
+        </context-group>
+        <note priority="1" from="description">Search Filter</note>
+      </trans-unit>
+      <trans-unit id="4f56ced9d6b85aeb1d4346433361d47ea72dac1a" datatype="html">
+        <source>Internal</source>
+        <target>Intern</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">308</context>
+        </context-group>
+        <note priority="1" from="description">Internal auth method</note>
+      </trans-unit>
+      <trans-unit id="db6c192032f4cab809aad35215f0aa4765761897" datatype="html">
+        <source>Login expiration</source>
+        <target>Ablauf der Anmeldung</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">268</context>
+        </context-group>
+        <note priority="1" from="description">Login expiration select label</note>
+      </trans-unit>
+      <trans-unit id="0c43af932e6a4ee85500e28f01b3538b4eb27bc4" datatype="html">
+        <source>Log Level</source>
+        <target>Protokollebene</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">256</context>
+        </context-group>
+        <note priority="1" from="description">Log Level label</note>
+      </trans-unit>
+      <trans-unit id="00a94f58d9eb2e3aa561440eabea616d0c937fa2" datatype="html">
+        <source>This will delete your old API key!</source>
+        <target>Dadurch wird Ihr alter API-Schlüssel gelöscht!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">187</context>
+        </context-group>
+        <note priority="1" from="description">delete api key tooltip</note>
+      </trans-unit>
+      <trans-unit id="fb35145bfb84521e21b6385363d59221f436a573" datatype="html">
+        <source>Kill all downloads</source>
+        <target>Alle Herunterladen-Ereignisse abbrechen</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">139</context>
+        </context-group>
+        <note priority="1" from="description">Kill all downloads button</note>
+      </trans-unit>
+      <trans-unit id="384de8f8f112c9e6092eb2698706d391553f3e8d" datatype="html">
+        <source>Include metadata</source>
+        <target>Metadaten einschließen</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+        <note priority="1" from="description">Include metadata setting</note>
+      </trans-unit>
+      <trans-unit id="ffc19f32b1cba0daefc0e5668f89346db1db83ad" datatype="html">
+        <source>Include thumbnail</source>
+        <target>Miniaturansicht einschließen</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+        <note priority="1" from="description">Include thumbnail setting</note>
+      </trans-unit>
+      <trans-unit id="a8b7b9c168fd936a75e500806a8c0d7755ef1198" datatype="html">
+        <source>NOTE: Uploading new cookies will override your previous cookies. Also note that cookies are instance-wide, not per-user.</source>
+        <target>HINWEIS: Durch das Hochladen neuer Cookies werden Ihre vorherigen Cookies überschrieben. Beachten Sie auch, dass Cookies instanzweit und nicht pro Benutzer sind.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/cookies-uploader-dialog/cookies-uploader-dialog.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">Cookies upload warning</note>
+      </trans-unit>
+      <trans-unit id="511b600ae4cf037e4eb3b7a58410842cd5727490" datatype="html">
+        <source>Add more content</source>
+        <target>Weitere Inhalte hinzufügen</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/modify-playlist/modify-playlist.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <note priority="1" from="description">Add more content</note>
+      </trans-unit>
+      <trans-unit id="f61c6867295f3b53d23557021f2f4e0aa1d0b8fc" datatype="html">
+        <source>Type</source>
+        <target>Typ</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/create-playlist/create-playlist.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <note priority="1" from="description">Type select</note>
+      </trans-unit>
+      <trans-unit id="2d1ea268a6a9f483dbc2cbfe19bf4256a57a6af4" datatype="html">
+        <source>Video</source>
+        <target>Video</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/create-playlist/create-playlist.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">Video</note>
+      </trans-unit>
+      <trans-unit id="f0baeb8b69d120073b6d60d34785889b0c3232c8" datatype="html">
+        <source>Audio</source>
+        <target>Audio</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/create-playlist/create-playlist.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <note priority="1" from="description">Audio</note>
       </trans-unit>
     </body>
   </file>
