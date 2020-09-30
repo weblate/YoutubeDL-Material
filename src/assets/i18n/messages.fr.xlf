@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="17f0ea5d2d7a262b0e875acc70475f102aee84e6" datatype="html">
         <source>Create a playlist</source>
-        <target>Créer une playlist</target>
+        <target>Créer une liste de lecture</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/create-playlist/create-playlist.component.html</context>
           <context context-type="linenumber">1</context>
@@ -214,7 +214,7 @@
       </trans-unit>
       <trans-unit id="b7ffe7c6586d6f3f18a9246806a7c7d5538ab43e" datatype="html">
         <source>Simulated command:</source>
-        <target>Prévisualisation des arguments:</target>
+        <target>Prévisualisation des arguments :</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
           <context context-type="linenumber">99</context>
@@ -355,7 +355,7 @@
       </trans-unit>
       <trans-unit id="47546e45bbb476baaaad38244db444c427ddc502" datatype="html">
         <source>Playlists</source>
-        <target>Liste de lecture</target>
+        <target>Listes de lecture</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
           <context context-type="linenumber">211</context>
@@ -1235,7 +1235,7 @@
       </trans-unit>
       <trans-unit id="eb3d5aefff38a814b76da74371cbf02c0789a1ef" datatype="html">
         <source>Logs</source>
-        <target>Logs</target>
+        <target>Journaux</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">314</context>
@@ -1334,7 +1334,7 @@
       </trans-unit>
       <trans-unit id="e1f398f38ff1534303d4bb80bd6cece245f24016" datatype="html">
         <source>to create an issue!</source>
-        <target>pour reporter un problème !</target>
+        <target>pour signaler un problème !</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/about-dialog/about-dialog.component.html</context>
           <context context-type="linenumber">25</context>
@@ -1441,7 +1441,7 @@
       </trans-unit>
       <trans-unit id="004b222ff9ef9dd4771b777950ca1d0e4cd4348a" datatype="html">
         <source>About</source>
-        <target>A propos</target>
+        <target>À propos</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">32</context>
@@ -1531,7 +1531,7 @@
       </trans-unit>
       <trans-unit id="3a6e5a6aa78ca864f6542410c5dafb6334538106" datatype="html">
         <source>Copy to clipboard</source>
-        <target>Copié dans le presse-papiers</target>
+        <target>Copier dans le presse-papiers</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/share-media-dialog/share-media-dialog.component.html</context>
           <context context-type="linenumber">24</context>
@@ -1598,7 +1598,7 @@
       </trans-unit>
       <trans-unit id="a9806cf78ce00eb2613eeca11354a97e033377b8" datatype="html">
         <source>Subscribe to playlist or channel</source>
-        <target>S'abonner à la playlist ou à la chaîne</target>
+        <target>S'abonner à la liste de lecture ou à la chaîne</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/subscribe-dialog/subscribe-dialog.component.html</context>
           <context context-type="linenumber">1</context>
@@ -1760,7 +1760,7 @@
       </trans-unit>
       <trans-unit id="2e0a410652cb07d069f576b61eab32586a18320d" datatype="html">
         <source>Name not available. Playlist retrieval in progress.</source>
-        <target>Ce nom n'est pas disponible. Recherche de chaînes en cours...</target>
+        <target>Ce nom n'est pas disponible. Recherche de chaînes en cours.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/subscriptions/subscriptions.component.html</context>
           <context context-type="linenumber">33</context>
@@ -1769,7 +1769,7 @@
       </trans-unit>
       <trans-unit id="587b57ced54965d8874c3fd0e9dfedb987e5df04" datatype="html">
         <source>You have no playlist subscriptions.</source>
-        <target>Vous n'êtes abonné à aucune liste de lectures.</target>
+        <target>Vous n'êtes abonné·e à aucune liste de lectures.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/subscriptions/subscriptions.component.html</context>
           <context context-type="linenumber">43</context>
@@ -2030,6 +2030,150 @@
           <context context-type="linenumber">9</context>
         </context-group>
         <note priority="1" from="description">Label for lines select in logger view</note>
+      </trans-unit>
+      <trans-unit id="348cc5d553b18e862eb1c1770e5636f6b05ba130" datatype="html">
+        <source>An error has occurred</source>
+        <target>Une erreur s'est produite</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/download-item/download-item.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <note priority="1" from="description">download error tooltip</note>
+      </trans-unit>
+      <trans-unit id="4d8a18b04a1f785ecd8021ac824e0dfd5881dbfc" datatype="html">
+        <source>The download was successful</source>
+        <target>Le téléchargement a réussi</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/download-item/download-item.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <note priority="1" from="description">download successful tooltip</note>
+      </trans-unit>
+      <trans-unit id="fa548cee6ea11c160a416cac3e6bdec0363883dc" datatype="html">
+        <source>Auth method</source>
+        <target>Méthode d'authentification</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">306</context>
+        </context-group>
+        <note priority="1" from="description">Auth method select</note>
+      </trans-unit>
+      <trans-unit id="e01d54ecc1a0fcf9525a3c100ed8b83d94e61c23" datatype="html">
+        <source>Search Filter</source>
+        <target>Filtre de recherche</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">338</context>
+        </context-group>
+        <note priority="1" from="description">Search Filter</note>
+      </trans-unit>
+      <trans-unit id="4f56ced9d6b85aeb1d4346433361d47ea72dac1a" datatype="html">
+        <source>Internal</source>
+        <target>Interne</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">308</context>
+        </context-group>
+        <note priority="1" from="description">Internal auth method</note>
+      </trans-unit>
+      <trans-unit id="db6c192032f4cab809aad35215f0aa4765761897" datatype="html">
+        <source>Login expiration</source>
+        <target>Expiration de la connexion</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">268</context>
+        </context-group>
+        <note priority="1" from="description">Login expiration select label</note>
+      </trans-unit>
+      <trans-unit id="0c43af932e6a4ee85500e28f01b3538b4eb27bc4" datatype="html">
+        <source>Log Level</source>
+        <target>Niveau de journal</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">256</context>
+        </context-group>
+        <note priority="1" from="description">Log Level label</note>
+      </trans-unit>
+      <trans-unit id="00a94f58d9eb2e3aa561440eabea616d0c937fa2" datatype="html">
+        <source>This will delete your old API key!</source>
+        <target>Ceci supprimera votre ancienne clé API !</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">187</context>
+        </context-group>
+        <note priority="1" from="description">delete api key tooltip</note>
+      </trans-unit>
+      <trans-unit id="fb35145bfb84521e21b6385363d59221f436a573" datatype="html">
+        <source>Kill all downloads</source>
+        <target>Supprimer tous les téléchargements</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">139</context>
+        </context-group>
+        <note priority="1" from="description">Kill all downloads button</note>
+      </trans-unit>
+      <trans-unit id="384de8f8f112c9e6092eb2698706d391553f3e8d" datatype="html">
+        <source>Include metadata</source>
+        <target>Inclure les métadonnées</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+        <note priority="1" from="description">Include metadata setting</note>
+      </trans-unit>
+      <trans-unit id="ffc19f32b1cba0daefc0e5668f89346db1db83ad" datatype="html">
+        <source>Include thumbnail</source>
+        <target>Inclure une miniature</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+        <note priority="1" from="description">Include thumbnail setting</note>
+      </trans-unit>
+      <trans-unit id="a8b7b9c168fd936a75e500806a8c0d7755ef1198" datatype="html">
+        <source>NOTE: Uploading new cookies will override your previous cookies. Also note that cookies are instance-wide, not per-user.</source>
+        <target>REMARQUE : le téléversement de nouveaux cookies remplacera vos cookies précédents. Notez également que les cookies sont à l'échelle de l'instance et non par utilisateur.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/cookies-uploader-dialog/cookies-uploader-dialog.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">Cookies upload warning</note>
+      </trans-unit>
+      <trans-unit id="511b600ae4cf037e4eb3b7a58410842cd5727490" datatype="html">
+        <source>Add more content</source>
+        <target>Ajouter plus de contenu</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/modify-playlist/modify-playlist.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <note priority="1" from="description">Add more content</note>
+      </trans-unit>
+      <trans-unit id="f61c6867295f3b53d23557021f2f4e0aa1d0b8fc" datatype="html">
+        <source>Type</source>
+        <target>Type</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/create-playlist/create-playlist.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <note priority="1" from="description">Type select</note>
+      </trans-unit>
+      <trans-unit id="2d1ea268a6a9f483dbc2cbfe19bf4256a57a6af4" datatype="html">
+        <source>Video</source>
+        <target>Vidéo</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/create-playlist/create-playlist.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">Video</note>
+      </trans-unit>
+      <trans-unit id="f0baeb8b69d120073b6d60d34785889b0c3232c8" datatype="html">
+        <source>Audio</source>
+        <target>Audio</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/create-playlist/create-playlist.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <note priority="1" from="description">Audio</note>
       </trans-unit>
     </body>
   </file>
