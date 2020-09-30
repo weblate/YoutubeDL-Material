@@ -1023,6 +1023,144 @@
         </context-group>
         <note priority="1" from="description">Audio</note>
       </trans-unit>
+      <trans-unit id="d02888c485d3aeab6de628508f4a00312a722894" datatype="html">
+        <source>My videos</source>
+        <target>Mis videos</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/recent-videos/recent-videos.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">My videos title</note>
+      </trans-unit>
+      <trans-unit id="a0720c36ee1057e5c54a86591b722485c62d7b1a" datatype="html">
+        <source>Go to subscription</source>
+        <target>Ir a suscripción</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/unified-file-card/unified-file-card.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">Go to subscription menu item</note>
+      </trans-unit>
+      <trans-unit id="5656a06f17c24b2d7eae9c221567b209743829a9" datatype="html">
+        <source>Open file in new tab</source>
+        <target>Abrir archivo en nueva pestaña</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/unified-file-card/unified-file-card.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <note priority="1" from="description">Open file in new tab</note>
+      </trans-unit>
+      <trans-unit id="ccf5ea825526ac490974336cb5c24352886abc07" datatype="html">
+        <source>Open file</source>
+        <target>Abrir archivo</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/unified-file-card/unified-file-card.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">Open file button</note>
+      </trans-unit>
+      <trans-unit id="8a0bda4c47f10b2423ff183acefbf70d4ab52ea2" datatype="html">
+        <source>Clear logs</source>
+        <target>Borrar registros</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/logs-viewer/logs-viewer.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <note priority="1" from="description">Clear logs button</note>
+      </trans-unit>
+      <trans-unit id="5009630cdf32ab4f1c78737b9617b8773512c05a" datatype="html">
+        <source>Lines:</source>
+        <target>Líneas:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/logs-viewer/logs-viewer.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <note priority="1" from="description">Label for lines select in logger view</note>
+      </trans-unit>
+      <trans-unit id="95b95a9c79e4fd9ed41f6855e37b3b06af25bcab" datatype="html">
+        <source>Delete user</source>
+        <target>Eliminar usuario</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/modify-users/modify-users.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+        <note priority="1" from="description">delete user action button tooltip</note>
+      </trans-unit>
+      <trans-unit id="632e8b20c98e8eec4059a605a4b011bb476137af" datatype="html">
+        <source>Edit user</source>
+        <target>Editar usuario</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/modify-users/modify-users.component.html</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+        <note priority="1" from="description">edit user action button tooltip</note>
+      </trans-unit>
+      <trans-unit id="98b6ec9ec138186d663e64770267b67334353d63" datatype="html">
+        <source>Custom file output</source>
+        <target>Salida de archivo personalizado</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/subscribe-dialog/subscribe-dialog.component.html</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/edit-subscription-dialog/edit-subscription-dialog.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <note priority="1" from="description">Subscription custom file output placeholder</note>
+      </trans-unit>
+      <trans-unit id="f432e1a8d6adb12e612127978ce2e0ced933959c" datatype="html">
+        <source>These are added after the standard args.</source>
+        <target>Estos se agregan después de los argumentos estándar.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/subscribe-dialog/subscribe-dialog.component.html</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/edit-subscription-dialog/edit-subscription-dialog.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <note priority="1" from="description">Custom args hint</note>
+      </trans-unit>
+      <trans-unit id="c76a955642714b8949ff3e4b4990864a2e2cac95" datatype="html">
+        <source>Audio-only mode</source>
+        <target>Modo de solo audio</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/subscribe-dialog/subscribe-dialog.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/edit-subscription-dialog/edit-subscription-dialog.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <note priority="1" from="description">Streaming-only mode</note>
+      </trans-unit>
+      <trans-unit id="e9aff8e6df2e2bf6299ea27bb2894c70bc48bd4d" datatype="html">
+        <source>An error has occurred:</source>
+        <target>Un error ha ocurrido:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/download-item/download-item.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+        <note priority="1" from="description">Error label</note>
+      </trans-unit>
+      <trans-unit id="348cc5d553b18e862eb1c1770e5636f6b05ba130" datatype="html">
+        <source>An error has occurred</source>
+        <target>Un error ha ocurrido</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/download-item/download-item.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <note priority="1" from="description">download error tooltip</note>
+      </trans-unit>
+      <trans-unit id="4d8a18b04a1f785ecd8021ac824e0dfd5881dbfc" datatype="html">
+        <source>The download was successful</source>
+        <target>La descarga era exitosa</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/download-item/download-item.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <note priority="1" from="description">download successful tooltip</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
