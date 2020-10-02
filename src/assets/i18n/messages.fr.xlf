@@ -2175,6 +2175,15 @@
         </context-group>
         <note priority="1" from="description">Audio</note>
       </trans-unit>
+      <trans-unit id="3697f8583ea42868aa269489ad366103d94aece7" datatype="html">
+        <source>Editing</source>
+        <target>Édition</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/dialogs/edit-subscription-dialog/edit-subscription-dialog.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">Edit subscription dialog title prefix</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
