@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="17f0ea5d2d7a262b0e875acc70475f102aee84e6" datatype="html">
         <source>Create a playlist</source>
-        <target/>
+        <target>Senulfu yat tlgamt n tɣuri</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/create-playlist/create-playlist.component.html</context>
           <context context-type="linenumber">1</context>
@@ -75,7 +75,7 @@
       </trans-unit>
       <trans-unit id="d9e83ac17026e70ef6e9c0f3240a3b2450367f40" datatype="html">
         <source>Modify youtube-dl args</source>
-        <target/>
+        <target>Senfel anẓa n youtube-dl</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/arg-modifier-dialog/arg-modifier-dialog.component.html</context>
           <context context-type="linenumber">1</context>
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="0b71824ae71972f236039bed43f8d2323e8fd570" datatype="html">
         <source>Add an arg</source>
-        <target/>
+        <target>Rnu yan unẓa</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/arg-modifier-dialog/arg-modifier-dialog.component.html</context>
           <context context-type="linenumber">34</context>
@@ -102,7 +102,7 @@
       </trans-unit>
       <trans-unit id="c8b0e59eb491f2ac7505f0fbab747062e6b32b23" datatype="html">
         <source>Search by category</source>
-        <target/>
+        <target>Rzu s ismilen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/arg-modifier-dialog/arg-modifier-dialog.component.html</context>
           <context context-type="linenumber">60</context>
@@ -111,7 +111,7 @@
       </trans-unit>
       <trans-unit id="9eeb91caef5a50256dd87e1c4b7b3e8216479377" datatype="html">
         <source>Use arg value</source>
-        <target/>
+        <target>Semres azal n unẓa</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/arg-modifier-dialog/arg-modifier-dialog.component.html</context>
           <context context-type="linenumber">64</context>
@@ -120,7 +120,7 @@
       </trans-unit>
       <trans-unit id="25d8ad5eba2ec24e68295a27d6a4bb9b49e3dacd" datatype="html">
         <source>Arg value</source>
-        <target/>
+        <target>Azal n unẓa</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/arg-modifier-dialog/arg-modifier-dialog.component.html</context>
           <context context-type="linenumber">68</context>
@@ -129,7 +129,7 @@
       </trans-unit>
       <trans-unit id="7de2451ed3fb8d8b847979bd3f0c740b970f167b" datatype="html">
         <source>Add arg</source>
-        <target/>
+        <target>Rnu anẓa</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/arg-modifier-dialog/arg-modifier-dialog.component.html</context>
           <context context-type="linenumber">73</context>
@@ -177,7 +177,7 @@
       </trans-unit>
       <trans-unit id="4be966a9dcfbc9b54dfcc604b831c0289f847fa4" datatype="html">
         <source>Use URL</source>
-        <target/>
+        <target>Semres URL</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
           <context context-type="linenumber">46</context>
