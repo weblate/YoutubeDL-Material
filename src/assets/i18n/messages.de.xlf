@@ -1291,7 +1291,7 @@
       </trans-unit>
       <trans-unit id="bb694b49d408265c91c62799c2b3a7e3151c824d" datatype="html">
         <source>Logout</source>
-        <target xml:lang="de-DE">Ausloggen</target>
+        <target xml:lang="de-DE">Abmelden</target>
         <note from="description" priority="1">Logout</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/user-profile-dialog/user-profile-dialog.component.html</context>
@@ -2149,7 +2149,7 @@
       </trans-unit>
       <trans-unit id="5656a06f17c24b2d7eae9c221567b209743829a9" datatype="html">
         <source>Open file in new tab</source>
-        <target>Datei im neuen Tab öffnen</target>
+        <target>Datei in einer neuen Registerkarte öffnen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/components/unified-file-card/unified-file-card.component.html</context>
           <context context-type="linenumber">14</context>
@@ -2158,7 +2158,7 @@
       </trans-unit>
       <trans-unit id="b6c453e0e61faea184bbaf5c5b0a1e164f4de2a2" datatype="html">
         <source>Clear all downloads</source>
-        <target>Download-Liste leeren</target>
+        <target>Herunterladen-Liste leeren</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/components/downloads/downloads.component.html</context>
           <context context-type="linenumber">18</context>
@@ -2185,7 +2185,7 @@
       </trans-unit>
       <trans-unit id="8a0bda4c47f10b2423ff183acefbf70d4ab52ea2" datatype="html">
         <source>Clear logs</source>
-        <target>Log-Datei löschen</target>
+        <target>Protokolldatei löschen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/components/logs-viewer/logs-viewer.component.html</context>
           <context context-type="linenumber">34</context>
