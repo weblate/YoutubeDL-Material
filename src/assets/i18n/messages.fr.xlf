@@ -311,7 +311,7 @@
       </trans-unit>
       <trans-unit id="08c74dc9762957593b91f6eb5d65efdfc975bf48" datatype="html">
         <source>Username</source>
-        <target>Identifiant</target>
+        <target>Nom d'utilisateur</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
           <context context-type="linenumber">142</context>
@@ -1190,7 +1190,7 @@
       </trans-unit>
       <trans-unit id="431e5f3a0dde88768d1074baedd65266412b3f02" datatype="html">
         <source>Use Cookies</source>
-        <target>Utiliser les Cookies</target>
+        <target>Utiliser les cookies</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">297</context>
@@ -1199,7 +1199,7 @@
       </trans-unit>
       <trans-unit id="80651a7ad1229ea6613557d3559f702cfa5aecf5" datatype="html">
         <source>Set Cookies</source>
-        <target>Gérer les Cookies</target>
+        <target>Gérer les cookies</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">298</context>
@@ -1379,7 +1379,7 @@
       </trans-unit>
       <trans-unit id="6765b4c916060f6bc42d9bb69e80377dbcb5e4e9" datatype="html">
         <source>Login</source>
-        <target>Identifiant</target>
+        <target>Se connecter</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/user-profile-dialog/user-profile-dialog.component.html</context>
           <context context-type="linenumber">20</context>
@@ -1396,7 +1396,7 @@
       </trans-unit>
       <trans-unit id="bb694b49d408265c91c62799c2b3a7e3151c824d" datatype="html">
         <source>Logout</source>
-        <target>Déconnexion</target>
+        <target>Se déconnecter</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/user-profile-dialog/user-profile-dialog.component.html</context>
           <context context-type="linenumber">28</context>
@@ -1881,7 +1881,7 @@
       </trans-unit>
       <trans-unit id="024886ca34a6f309e3e51c2ed849320592c3faaa" datatype="html">
         <source>User name</source>
-        <target>Identifiant</target>
+        <target>Nom d'utilisateur</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/add-user-dialog/add-user-dialog.component.html</context>
           <context context-type="linenumber">6</context>
@@ -2183,6 +2183,132 @@
           <context context-type="linenumber">1</context>
         </context-group>
         <note priority="1" from="description">Edit subscription dialog title prefix</note>
+      </trans-unit>
+      <trans-unit id="d02888c485d3aeab6de628508f4a00312a722894" datatype="html">
+        <source>My videos</source>
+        <target>Mes vidéos</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/recent-videos/recent-videos.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">My videos title</note>
+      </trans-unit>
+      <trans-unit id="a0720c36ee1057e5c54a86591b722485c62d7b1a" datatype="html">
+        <source>Go to subscription</source>
+        <target>Aller aux abonnements</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/unified-file-card/unified-file-card.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <note priority="1" from="description">Go to subscription menu item</note>
+      </trans-unit>
+      <trans-unit id="5656a06f17c24b2d7eae9c221567b209743829a9" datatype="html">
+        <source>Open file in new tab</source>
+        <target>Ouvrir le fichier dans un nouvel onglet</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/unified-file-card/unified-file-card.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <note priority="1" from="description">Open file in new tab</note>
+      </trans-unit>
+      <trans-unit id="ccf5ea825526ac490974336cb5c24352886abc07" datatype="html">
+        <source>Open file</source>
+        <target>Ouvrir le fichier</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/unified-file-card/unified-file-card.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">Open file button</note>
+      </trans-unit>
+      <trans-unit id="8a0bda4c47f10b2423ff183acefbf70d4ab52ea2" datatype="html">
+        <source>Clear logs</source>
+        <target>Effacer les journaux</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/logs-viewer/logs-viewer.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <note priority="1" from="description">Clear logs button</note>
+      </trans-unit>
+      <trans-unit id="95b95a9c79e4fd9ed41f6855e37b3b06af25bcab" datatype="html">
+        <source>Delete user</source>
+        <target>Supprimer l'utilisateur</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/modify-users/modify-users.component.html</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+        <note priority="1" from="description">delete user action button tooltip</note>
+      </trans-unit>
+      <trans-unit id="544e09cdc99a8978f48521d45f62db0da6dcf742" datatype="html">
+        <source>Use role default</source>
+        <target>Utiliser le groupe par défaut</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/manage-user/manage-user.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <note priority="1" from="description">Use role default</note>
+      </trans-unit>
+      <trans-unit id="632e8b20c98e8eec4059a605a4b011bb476137af" datatype="html">
+        <source>Edit user</source>
+        <target>Modifier l'utilisateur</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/modify-users/modify-users.component.html</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+        <note priority="1" from="description">edit user action button tooltip</note>
+      </trans-unit>
+      <trans-unit id="b6c453e0e61faea184bbaf5c5b0a1e164f4de2a2" datatype="html">
+        <source>Clear all downloads</source>
+        <target>Effacer tous les téléchargements</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/components/downloads/downloads.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <note priority="1" from="description">clear all downloads action button</note>
+      </trans-unit>
+      <trans-unit id="cfa67d14d84fe0e9fadf251dc51ffc181173b662" datatype="html">
+        <source>Search Base</source>
+        <target>Search Base</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">333</context>
+        </context-group>
+        <note priority="1" from="description">Search Base</note>
+      </trans-unit>
+      <trans-unit id="080cc6abcba236390fc22e79792d0d3443a3bd2a" datatype="html">
+        <source>Bind Credentials</source>
+        <target>Bind Credentials</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">328</context>
+        </context-group>
+        <note priority="1" from="description">Bind Credentials</note>
+      </trans-unit>
+      <trans-unit id="f50fa6c09c8944aed504f6325f2913ee6c7a296a" datatype="html">
+        <source>Bind DN</source>
+        <target>Bind DN</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">323</context>
+        </context-group>
+        <note priority="1" from="description">Bind DN</note>
+      </trans-unit>
+      <trans-unit id="1db9789b93069861019bd0ccaa5d4706b00afc61" datatype="html">
+        <source>LDAP URL</source>
+        <target>LDAP URL</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">318</context>
+        </context-group>
+        <note priority="1" from="description">LDAP URL</note>
+      </trans-unit>
+      <trans-unit id="e3d7c5f019e79a3235a28ba24df24f11712c7627" datatype="html">
+        <source>LDAP</source>
+        <target>LDAP</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/settings/settings.component.html</context>
+          <context context-type="linenumber">311</context>
+        </context-group>
+        <note priority="1" from="description">LDAP auth method</note>
       </trans-unit>
     </body>
   </file>
