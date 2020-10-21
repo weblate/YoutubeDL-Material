@@ -1736,7 +1736,7 @@
       </trans-unit>
       <trans-unit id="7117fc42f860e86d983bfccfcf2654e5750f3406" datatype="html">
         <source>No downloads available!</source>
-        <target xml:lang="de-DE">Zurzeit sind keine Herunterladen-Ereignisse verfügbar!</target>
+        <target xml:lang="de-DE">Zurzeit sind keine Downloads verfügbar.</target>
         <note from="description" priority="1">No downloads label</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/components/downloads/downloads.component.html</context>
@@ -2158,7 +2158,7 @@
       </trans-unit>
       <trans-unit id="b6c453e0e61faea184bbaf5c5b0a1e164f4de2a2" datatype="html">
         <source>Clear all downloads</source>
-        <target>Herunterladen-Liste leeren</target>
+        <target>Download-Liste leeren</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/components/downloads/downloads.component.html</context>
           <context context-type="linenumber">18</context>
