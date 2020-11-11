@@ -320,7 +320,7 @@
       </trans-unit>
       <trans-unit id="c32ef07f8803a223a83ed17024b38e8d82292407" datatype="html">
         <source>Password</source>
-        <target>Mot de Passe</target>
+        <target>Mot de passe</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
           <context context-type="linenumber">147</context>
@@ -434,7 +434,7 @@
       </trans-unit>
       <trans-unit id="c6eb45d085384903e53ab001a3513d1de6a1dbac" datatype="html">
         <source>Uploader:</source>
-        <target>Uploader :</target>
+        <target>Chaîne :</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/video-info-dialog/video-info-dialog.component.html</context>
           <context context-type="linenumber">13</context>
@@ -546,7 +546,7 @@
       </trans-unit>
       <trans-unit id="28f86ffd419b869711aa13f5e5ff54be6d70731c" datatype="html">
         <source>Edit</source>
-        <target>Editer</target>
+        <target>Modifier</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/file-card/file-card.component.html</context>
           <context context-type="linenumber">19</context>
@@ -818,7 +818,7 @@
       </trans-unit>
       <trans-unit id="ff7cee38a2259526c519f878e71b964f41db4348" datatype="html">
         <source>Default</source>
-        <target>Default</target>
+        <target>Par défaut</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">96</context>
@@ -1486,7 +1486,7 @@
       </trans-unit>
       <trans-unit id="15da89490e04496ca9ea1e1b3d44fb5efd4a75d9" datatype="html">
         <source>Share video</source>
-        <target>Partager vidéo</target>
+        <target>Partager une vidéo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/share-media-dialog/share-media-dialog.component.html</context>
           <context context-type="linenumber">3</context>
@@ -1495,7 +1495,7 @@
       </trans-unit>
       <trans-unit id="1d540dcd271b316545d070f9d182c372d923aadd" datatype="html">
         <source>Share audio</source>
-        <target>Partager audio</target>
+        <target>Partager un audio</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/share-media-dialog/share-media-dialog.component.html</context>
           <context context-type="linenumber">4</context>
