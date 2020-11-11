@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="96a01fafe135afc58b0f8071a4ab00234495ce18" datatype="html">
         <source>Multi-download Mode</source>
-        <target xml:lang="de-DE">Multi-Download Modus</target>
+        <target xml:lang="de-DE">Multi-Herunteraden-Modus</target>
         <note from="description" priority="1">Multi-download Mode checkbox</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
@@ -192,7 +192,7 @@
       </trans-unit>
       <trans-unit id="6a21ba5fb0ac804a525bf9ab168038c3ee88e661" datatype="html">
         <source>Download</source>
-        <target xml:lang="de-DE">Download</target>
+        <target xml:lang="de-DE">Herunterladen</target>
         <note from="description" priority="1">Main download button</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
@@ -526,7 +526,7 @@
       </trans-unit>
       <trans-unit id="321e4419a943044e674beb55b8039f42a9761ca5" datatype="html">
         <source>Info</source>
-        <target xml:lang="de-DE">Info</target>
+        <target xml:lang="de-DE">Infos</target>
         <note from="description" priority="1">Video info button</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/file-card/file-card.component.html</context>
@@ -548,7 +548,7 @@
       </trans-unit>
       <trans-unit id="34504b488c24c27e68089be549f0eeae6ebaf30b" datatype="html">
         <source>Delete and blacklist</source>
-        <target xml:lang="de-DE">Löschen und zur Blacklist hinzufügen</target>
+        <target xml:lang="de-DE">Löschen und zur schwarzen Liste hinzufügen</target>
         <note from="description" priority="1">Delete and blacklist video button</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/file-card/file-card.component.html</context>
@@ -879,7 +879,7 @@
       </trans-unit>
       <trans-unit id="a5a1be0a5df07de9eec57f5d2a86ed0204b2e75a" datatype="html">
         <source>Downloads manager enabled</source>
-        <target xml:lang="de-DE">Download-Manager aktivieren</target>
+        <target xml:lang="de-DE">Herunterladenverwaltung aktiviert</target>
         <note from="description" priority="1">Downloads manager enabled setting</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
@@ -897,7 +897,7 @@
       </trans-unit>
       <trans-unit id="bda5508e24e0d77debb28bcd9194d8fefb1cfb92" datatype="html">
         <source>Download only mode</source>
-        <target xml:lang="de-DE">Nur Download Modus</target>
+        <target xml:lang="de-DE">Nur-Herunterladen-Modus</target>
         <note from="description" priority="1">Download only mode setting</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
@@ -906,7 +906,7 @@
       </trans-unit>
       <trans-unit id="09d31c803a7252658694e1e3176b97f5655a3fe3" datatype="html">
         <source>Allow multi-download mode</source>
-        <target xml:lang="de-DE">Multi-Download Modus erlauben</target>
+        <target xml:lang="de-DE">Multi-Herunterladen-Modus erlauben</target>
         <note from="description" priority="1">Allow multi-download mode setting</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
@@ -1094,7 +1094,7 @@
       </trans-unit>
       <trans-unit id="ec71e08aee647ea4a71fd6b7510c54d84a797ca6" datatype="html">
         <source>Select a downloader</source>
-        <target xml:lang="de-DE">Downloader auswählen</target>
+        <target xml:lang="de-DE">Herunterladen-Methode auswählen</target>
         <note from="description" priority="1">Custom downloader select label</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
@@ -1197,7 +1197,7 @@
       </trans-unit>
       <trans-unit id="e22f3a5351944f3a1a10cfc7da6f65dfbe0037fe" datatype="html">
         <source>Checking for updates...</source>
-        <target xml:lang="de-DE">Suche nach Updates ...</target>
+        <target xml:lang="de-DE">Suche nach Aktualisierungen …</target>
         <note from="description" priority="1">Checking for updates text</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/about-dialog/about-dialog.component.html</context>
@@ -1462,7 +1462,7 @@
       </trans-unit>
       <trans-unit id="77b0c73840665945b25bd128709aa64c8f017e1c" datatype="html">
         <source>Download start:</source>
-        <target xml:lang="de-DE">Download Start:</target>
+        <target xml:lang="de-DE">Start des Herunterladen:</target>
         <note from="description" priority="1">Download start label</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/download-item/download-item.component.html</context>
@@ -1471,7 +1471,7 @@
       </trans-unit>
       <trans-unit id="08ff9375ec078065bcdd7637b7ea65fce2979266" datatype="html">
         <source>Download end:</source>
-        <target xml:lang="de-DE">Download Ende:</target>
+        <target xml:lang="de-DE">Ende des Herunterladen:</target>
         <note from="description" priority="1">Download end label</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/download-item/download-item.component.html</context>
@@ -1525,7 +1525,7 @@
       </trans-unit>
       <trans-unit id="ea30873bd3f0d5e4fb2378eec3f0a1db77634a28" datatype="html">
         <source>Download all uploads</source>
-        <target xml:lang="de-DE">Alle Uploads herunterladen</target>
+        <target xml:lang="de-DE">Alle hochgeladene Dateien herunterladen</target>
         <note from="description" priority="1">Download all uploads subscription setting</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/subscribe-dialog/subscribe-dialog.component.html</context>
@@ -1543,7 +1543,7 @@
       </trans-unit>
       <trans-unit id="408ca4911457e84a348cecf214f02c69289aa8f1" datatype="html">
         <source>Streaming-only mode</source>
-        <target xml:lang="de-DE">Nur Streaming Modus</target>
+        <target xml:lang="de-DE">Nur-Streaming-Modus</target>
         <note from="description" priority="1">Streaming-only mode</note>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/subscribe-dialog/subscribe-dialog.component.html</context>
@@ -1924,7 +1924,7 @@
       </trans-unit>
       <trans-unit id="c76a955642714b8949ff3e4b4990864a2e2cac95" datatype="html">
         <source>Audio-only mode</source>
-        <target>Nur-Audio Modus</target>
+        <target>Nur-Audio-Modus</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/subscribe-dialog/subscribe-dialog.component.html</context>
           <context context-type="linenumber">38</context>
@@ -2158,7 +2158,7 @@
       </trans-unit>
       <trans-unit id="b6c453e0e61faea184bbaf5c5b0a1e164f4de2a2" datatype="html">
         <source>Clear all downloads</source>
-        <target>Download-Liste leeren</target>
+        <target>Herunterladen-Liste leeren</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/components/downloads/downloads.component.html</context>
           <context context-type="linenumber">18</context>
@@ -2239,7 +2239,7 @@
       </trans-unit>
       <trans-unit id="4d8a18b04a1f785ecd8021ac824e0dfd5881dbfc" datatype="html">
         <source>The download was successful</source>
-        <target>Der Download war erfolgreich</target>
+        <target>Der Herunterladen-Ereignis war erfolgreich</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/download-item/download-item.component.html</context>
           <context context-type="linenumber">8</context>
