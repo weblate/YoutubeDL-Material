@@ -1154,7 +1154,7 @@
       </trans-unit>
       <trans-unit id="5fab47f146b0a4b809dcebf3db9da94df6299ea1" datatype="html">
         <source>Use default downloading agent</source>
-        <target>使用默认下载代理</target>
+        <target>使用默认下载程序</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">260</context>
@@ -1252,8 +1252,8 @@
         <note priority="1" from="description">Settings save button</note>
       </trans-unit>
       <trans-unit id="fe8fd36dbf5deee1d56564965787a782a66eba44" datatype="html">
-        <source>{VAR_SELECT, select, true {Close} false {Cancel} other {otha} }</source>
-        <target>{VAR_SELECT, select, true {关} false {取消} }</target>
+        <source>{VAR_SELECT, select, true {Close} false {Cancel} other {otha}}</source>
+        <target>{VAR_SELECT, select, true {关} false {取消} other {其他} }</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">330</context>
@@ -2309,6 +2309,260 @@
           <context context-type="linenumber">139</context>
         </context-group>
         <note priority="1" from="description">Kill all downloads button</note>
+      </trans-unit>
+      <trans-unit id="56a2a773fbd5a6b9ac2e6b89d29d70a2ed0f3227" datatype="html">
+        <source>See less.</source>
+        <target>查看更少</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/see-more/see-more.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+        <note priority="1" from="description">See less</note>
+      </trans-unit>
+      <trans-unit id="c776eb4992b6c98f58cd89b20c1ea8ac37888521" datatype="html">
+        <source>Select a download agent</source>
+        <target>选择一个下载程序</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">299</context>
+        </context-group>
+        <note priority="1" from="description">Custom downloader select label</note>
+      </trans-unit>
+      <trans-unit id="d641b8fa5ac5e85114c733b1f7de6976bd091f70" datatype="html">
+        <source>Max quality</source>
+        <target>最高画质</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/subscribe-dialog/subscribe-dialog.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/edit-subscription-dialog/edit-subscription-dialog.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+        <note priority="1" from="description">Max quality placeholder</note>
+      </trans-unit>
+      <trans-unit id="ddc31f2885b1b33a7651963254b0c197f2a64086" datatype="html">
+        <source>See more.</source>
+        <target>查看更多...</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/see-more/see-more.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+        <note priority="1" from="description">See more</note>
+      </trans-unit>
+      <trans-unit id="5fb1e0083c9b2a40ac8ae7dcb2618311c291b8b9" datatype="html">
+        <source>Auto-download Twitch Chat</source>
+        <target>自动下载Twitch弹幕</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">244</context>
+        </context-group>
+        <note priority="1" from="description">Auto download Twitch Chat setting</note>
+      </trans-unit>
+      <trans-unit id="84ffcebac2709ca0785f4a1d5ba274433b5beabc" datatype="html">
+        <source>Also known as a Client ID.</source>
+        <target>也称为客户ID</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">249</context>
+        </context-group>
+        <note priority="1" from="description">Twitch API Key setting hint AKA preamble</note>
+      </trans-unit>
+      <trans-unit id="8ae23bc4302a479f687f4b20a84c276182e2519c" datatype="html">
+        <source>Twitch API Key</source>
+        <target>Twitch API 密钥</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">248</context>
+        </context-group>
+        <note priority="1" from="description">Twitch API Key setting placeholder</note>
+      </trans-unit>
+      <trans-unit id="d162f9fcd6a7187b391e004f072ab3da8377c47d" datatype="html">
+        <source>Use Twitch API</source>
+        <target>使用Twitch API</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">241</context>
+        </context-group>
+        <note priority="1" from="description">Use Twitch API setting</note>
+      </trans-unit>
+      <trans-unit id="04201f9d27abd7d6f58a4328ab98063ce1072006" datatype="html">
+        <source>Categories</source>
+        <target>分类</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">144</context>
+        </context-group>
+        <note priority="1" from="description">Categories</note>
+      </trans-unit>
+      <trans-unit id="ef418d4ece7c844f3a5e431da1aa59bedd88da7b" datatype="html">
+        <source>Global custom args</source>
+        <target>全局自定义变量</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+        <note priority="1" from="description">Custom args input placeholder</note>
+      </trans-unit>
+      <trans-unit id="1148fd45287ff09955b938756bc302042bcb29c7" datatype="html">
+        <source>Path is relative to the above download paths. Don't include extension.</source>
+        <target>路径相对于上述下载路径，不包括扩展名。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">126</context>
+        </context-group>
+        <note priority="1" from="description">Custom Output input hint</note>
+      </trans-unit>
+      <trans-unit id="cfe829634b1144bc44b6d38cf5584ea65db9804f" datatype="html">
+        <source>Default file output</source>
+        <target>默认输出文件夹</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+        <note priority="1" from="description">Default file output placeholder</note>
+      </trans-unit>
+      <trans-unit id="3d1a47dc18b7bd8b5d9e1eb44b235ed9c4a2b513" datatype="html">
+        <source>Redownload fresh uploads</source>
+        <target>重新下载新上传的内容</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+        <note priority="1" from="description">Redownload fresh uploads</note>
+      </trans-unit>
+      <trans-unit id="13759b09a7f4074ceee8fa2f968f9815fdf63295" datatype="html">
+        <source>Sometimes new videos are downloaded before being fully processed. This setting will mean new videos will be checked for a higher quality version the following day.</source>
+        <target>有时新视频会在完全处理前下载。这项设置指新视频会在第二天检查视频是否有更高画质。</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+        <note priority="1" from="description">Redownload fresh uploads tooltip</note>
+      </trans-unit>
+      <trans-unit id="dad95154dcef3509b8cc705046061fd24994bbb7" datatype="html">
+        <source>views</source>
+        <target>浏览</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/player/player.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <note priority="1" from="description">View count label</note>
+      </trans-unit>
+      <trans-unit id="792dc6a57f28a1066db283f2e736484f066005fd" datatype="html">
+        <source>Download Twitch Chat</source>
+        <target>下载Twitch弹幕</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/twitch-chat/twitch-chat.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <note priority="1" from="description">Download Twitch Chat button</note>
+      </trans-unit>
+      <trans-unit id="e4eeb9106dbcbc91ca1ac3fb4068915998a70f37" datatype="html">
+        <source>Add new rule</source>
+        <target>添加新规则</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/edit-category-dialog/edit-category-dialog.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <note priority="1" from="description">Add new rule tooltip</note>
+      </trans-unit>
+      <trans-unit id="2489eefea00931942b91f4a1ae109514b591e2e1" datatype="html">
+        <source>Rules</source>
+        <target>规则</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/edit-category-dialog/edit-category-dialog.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <note priority="1" from="description">Rules</note>
+      </trans-unit>
+      <trans-unit id="c3b0b86523f1d10e84a71f9b188d54913a11af3b" datatype="html">
+        <source>Editing category</source>
+        <target>编辑类别</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/edit-category-dialog/edit-category-dialog.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">Editing category dialog title</note>
+      </trans-unit>
+      <trans-unit id="07db550ae114d9faad3a0cbb68bcc16ab6cd31fc" datatype="html">
+        <source>Paused</source>
+        <target>暂停</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/edit-subscription-dialog/edit-subscription-dialog.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <note priority="1" from="description">Paused subscription setting</note>
+      </trans-unit>
+      <trans-unit id="73423607944a694ce6f9e55cfee329681bb4d9f9" datatype="html">
+        <source>No videos found.</source>
+        <target>找不到视频</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/recent-videos/recent-videos.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <note priority="1" from="description">No videos found</note>
+      </trans-unit>
+      <trans-unit id="29376982b1205d9d6ea3d289e8e2f8e1ac2839b1" datatype="html">
+        <source>Reverse order</source>
+        <target>倒序</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/modify-playlist/modify-playlist.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <note priority="1" from="description">Reverse order</note>
+      </trans-unit>
+      <trans-unit id="33026f57ea65cd9c8a5d917a08083f71a718933a" datatype="html">
+        <source>Normal order</source>
+        <target>正序</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/modify-playlist/modify-playlist.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">Normal order</note>
+      </trans-unit>
+      <trans-unit id="5caadefa4143cf6766a621b0f54f91f373a1f164" datatype="html">
+        <source>Add content</source>
+        <target>添加内容</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/modify-playlist/modify-playlist.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <note priority="1" from="description">Add content</note>
+      </trans-unit>
+      <trans-unit id="0cc1dec590ecd74bef71a865fb364779bc42a749" datatype="html">
+        <source>Category:</source>
+        <target>类别：</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/video-info-dialog/video-info-dialog.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <note priority="1" from="description">Category property</note>
+      </trans-unit>
+      <trans-unit id="303e45ffae995c9817e510e38cb969e6bb3adcbf" datatype="html">
+        <source>(Paused)</source>
+        <target>（暂停）</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/subscription-info-dialog/subscription-info-dialog.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/edit-subscription-dialog/edit-subscription-dialog.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/subscriptions/subscriptions.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/subscriptions/subscriptions.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/subscription/subscription/subscription.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">Paused suffix</note>
       </trans-unit>
     </body>
   </file>
