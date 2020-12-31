@@ -75,7 +75,7 @@
       </trans-unit>
       <trans-unit id="d9e83ac17026e70ef6e9c0f3240a3b2450367f40" datatype="html">
         <source>Modify youtube-dl args</source>
-        <target>Modifica gli argomenti di scaricamento</target>
+        <target>Modifica i parametri di youtube-dl</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/arg-modifier-dialog/arg-modifier-dialog.component.html</context>
           <context context-type="linenumber">1</context>
@@ -84,7 +84,7 @@
       </trans-unit>
       <trans-unit id="7fc1946abe2b40f60059c6cd19975d677095fd19" datatype="html">
         <source>Simulated new args</source>
-        <target>Nuovi argomenti simulati</target>
+        <target>Simula i nuovi parametri</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/arg-modifier-dialog/arg-modifier-dialog.component.html</context>
           <context context-type="linenumber">8</context>
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="0b71824ae71972f236039bed43f8d2323e8fd570" datatype="html">
         <source>Add an arg</source>
-        <target>Aggiungi un argomento</target>
+        <target>Aggiungi un'impostazione</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/arg-modifier-dialog/arg-modifier-dialog.component.html</context>
           <context context-type="linenumber">34</context>
@@ -111,7 +111,7 @@
       </trans-unit>
       <trans-unit id="9eeb91caef5a50256dd87e1c4b7b3e8216479377" datatype="html">
         <source>Use arg value</source>
-        <target>Usa il valore arg</target>
+        <target>Usa valore impostato</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/arg-modifier-dialog/arg-modifier-dialog.component.html</context>
           <context context-type="linenumber">64</context>
@@ -120,7 +120,7 @@
       </trans-unit>
       <trans-unit id="25d8ad5eba2ec24e68295a27d6a4bb9b49e3dacd" datatype="html">
         <source>Arg value</source>
-        <target>Valore arg</target>
+        <target>Valore impostato</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/arg-modifier-dialog/arg-modifier-dialog.component.html</context>
           <context context-type="linenumber">68</context>
@@ -129,7 +129,7 @@
       </trans-unit>
       <trans-unit id="7de2451ed3fb8d8b847979bd3f0c740b970f167b" datatype="html">
         <source>Add arg</source>
-        <target>Aggiungi argomento</target>
+        <target>Aggiungi impostazione</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/arg-modifier-dialog/arg-modifier-dialog.component.html</context>
           <context context-type="linenumber">73</context>
@@ -177,7 +177,7 @@
       </trans-unit>
       <trans-unit id="4be966a9dcfbc9b54dfcc604b831c0289f847fa4" datatype="html">
         <source>Use URL</source>
-        <target>Usa URL</target>
+        <target>Utilizza URL</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
           <context context-type="linenumber">46</context>
@@ -204,7 +204,7 @@
       </trans-unit>
       <trans-unit id="96a01fafe135afc58b0f8071a4ab00234495ce18" datatype="html">
         <source>Multi-download Mode</source>
-        <target>Modalità multi-scaricamento</target>
+        <target>Modalità download multiplo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
           <context context-type="linenumber">64</context>
@@ -249,7 +249,7 @@
       </trans-unit>
       <trans-unit id="4e4c721129466be9c3862294dc40241b64045998" datatype="html">
         <source>Use custom args</source>
-        <target>Usa argomenti personalizzati</target>
+        <target>Usa parametri personalizzati</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
           <context context-type="linenumber">104</context>
@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="ad2f8ac8b7de7945b80c8e424484da94e597125f" datatype="html">
         <source>Custom args</source>
-        <target>Argomenti personalizzati</target>
+        <target>Parametri personalizzati</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
           <context context-type="linenumber">110</context>
@@ -278,10 +278,8 @@
         <note priority="1" from="description">Custom args placeholder</note>
       </trans-unit>
       <trans-unit id="a6911c2157f1b775284bbe9654ce5eb30cf45d7f" datatype="html">
-        <source>
-                                    No need to include URL, just everything after. Args are delimited using two commas like so: ,,
-                                </source>
-        <target/>
+        <source>No need to include URL, just everything after. Args are delimited using two commas like so: ,,</source>
+        <target>Non è necessario includere l'URL, solo ciò che viene dopo. I parametri sono delimitati da due vigole: ,,</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
           <context context-type="linenumber">112</context>
@@ -290,7 +288,7 @@
       </trans-unit>
       <trans-unit id="3a92a3443c65a52f37ca7efb8f453b35dbefbf29" datatype="html">
         <source>Use custom output</source>
-        <target>Usa uscita personalizzata</target>
+        <target>Usa output personalizzato</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
           <context context-type="linenumber">120</context>
@@ -299,7 +297,7 @@
       </trans-unit>
       <trans-unit id="d9c02face477f2f9cdaae318ccee5f89856851fb" datatype="html">
         <source>Custom output</source>
-        <target>Uscita personalizzata</target>
+        <target>Output personalizzata</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
           <context context-type="linenumber">125</context>
@@ -325,7 +323,7 @@
       </trans-unit>
       <trans-unit id="19d1ae64d94d28a29b2c57ae8671aace906b5401" datatype="html">
         <source>Path is relative to the config download path. Don't include extension.</source>
-        <target>Il percorso è relativo al percorso di scaricamento della configurazione. Non includere l'estensione.</target>
+        <target>Il percorso è relativo al percorso di download configurato. Non includere l'estensione.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
           <context context-type="linenumber">128</context>
@@ -342,7 +340,7 @@
       </trans-unit>
       <trans-unit id="8fad10737d3e3735a6699a4d89cbf6c20f6bb55f" datatype="html">
         <source>Use authentication</source>
-        <target>Usa l'autenticazione</target>
+        <target>Utilizza l'autenticazione</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/main/main.component.html</context>
           <context context-type="linenumber">134</context>
@@ -403,7 +401,7 @@
       </trans-unit>
       <trans-unit id="c6eb45d085384903e53ab001a3513d1de6a1dbac" datatype="html">
         <source>Uploader:</source>
-        <target>Caricatore:</target>
+        <target>Caricato da:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/video-info-dialog/video-info-dialog.component.html</context>
           <context context-type="linenumber">13</context>
@@ -484,7 +482,7 @@
       </trans-unit>
       <trans-unit id="4f389e41e4592f7f9bb76abdd8af4afdfb13f4f1" datatype="html">
         <source>Modify playlist</source>
-        <target>Modifica la scaletta</target>
+        <target>Modifica playlist</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/modify-playlist/modify-playlist.component.html</context>
           <context context-type="linenumber">1</context>
@@ -631,7 +629,7 @@
       </trans-unit>
       <trans-unit id="a8b7b9c168fd936a75e500806a8c0d7755ef1198" datatype="html">
         <source>NOTE: Uploading new cookies will override your previous cookies. Also note that cookies are instance-wide, not per-user.</source>
-        <target>NOTA: il caricamento di nuovi cookie sovrascriverà i cookie precedenti. Tieni inoltre presente che i cookie sono a livello di istanza, non per utente.</target>
+        <target>NOTA: il caricamento di nuovi cookie sovrascriverà i cookie precedenti. Inoltre tieni presente che i cookie sono a livello di processo, non per utente.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/cookies-uploader-dialog/cookies-uploader-dialog.component.html</context>
           <context context-type="linenumber">20</context>
@@ -666,7 +664,7 @@
       </trans-unit>
       <trans-unit id="54c512cca1923ab72faf1a0bd98d3d172469629a" datatype="html">
         <source>URL this app will be accessed from, without the port.</source>
-        <target>URL da cui si accederà all'applicazione senza la porta.</target>
+        <target>URL con cui si accederà a questa applicazione, senza porta.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">19</context>
@@ -675,7 +673,7 @@
       </trans-unit>
       <trans-unit id="cb2741a46e3560f6bc6dfd99d385e86b08b26d72" datatype="html">
         <source>Port</source>
-        <target/>
+        <target>Porta</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">24</context>
@@ -684,7 +682,7 @@
       </trans-unit>
       <trans-unit id="22e8f1d0423a3b784fe40fab187b92c06541b577" datatype="html">
         <source>The desired port. Default is 17442.</source>
-        <target/>
+        <target>Porta personalizzata. La predefinita è 17442.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">25</context>
@@ -702,7 +700,7 @@
       </trans-unit>
       <trans-unit id="2eb03565fcdce7a7a67abc277a936a32fcf51557" datatype="html">
         <source>Users base path</source>
-        <target/>
+        <target>Percorso profili utente</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">38</context>
@@ -711,7 +709,7 @@
       </trans-unit>
       <trans-unit id="a64505c41150663968e277ec9b3ddaa5f4838798" datatype="html">
         <source>Base path for users and their downloaded videos.</source>
-        <target/>
+        <target>Percorso per profili utente e per video scaricati da ognuno.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">39</context>
@@ -720,7 +718,7 @@
       </trans-unit>
       <trans-unit id="4e3120311801c4acd18de7146add2ee4a4417773" datatype="html">
         <source>Allow subscriptions</source>
-        <target>Consenti abbonamenti</target>
+        <target>Consenti iscrizioni</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">48</context>
@@ -729,7 +727,7 @@
       </trans-unit>
       <trans-unit id="4bee2a4bef2d26d37c9b353c278e24e5cd309ce3" datatype="html">
         <source>Subscriptions base path</source>
-        <target/>
+        <target>Percorso salvataggio playlist sottoscritte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">52</context>
@@ -738,7 +736,7 @@
       </trans-unit>
       <trans-unit id="bc9892814ee2d119ae94378c905ea440a249b84a" datatype="html">
         <source>Base path for videos from your subscribed channels and playlists. It is relative to YTDL-Material's root folder.</source>
-        <target/>
+        <target>Percorso salvataggio per i video dei canali e delle playlist sottoscritte. È relativo alla cartella principale di YTDL-Material.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">53</context>
@@ -747,7 +745,7 @@
       </trans-unit>
       <trans-unit id="5bef4b25ba680da7fff06b86a91b1fc7e6a926e3" datatype="html">
         <source>Check interval</source>
-        <target/>
+        <target>Intervallo di verifica</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">58</context>
@@ -756,7 +754,7 @@
       </trans-unit>
       <trans-unit id="0f56a7449b77630c114615395bbda4cab398efd8" datatype="html">
         <source>Unit is seconds, only include numbers.</source>
-        <target/>
+        <target>Unità in secondi, inserire solo numeri.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">59</context>
@@ -796,7 +794,7 @@
       </trans-unit>
       <trans-unit id="7a6bacee4c31cb5c0ac2d24274fb4610d8858602" datatype="html">
         <source>Allow theme change</source>
-        <target>Consenti il cambio del tema</target>
+        <target>Consenti variazione tema</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">77</context>
@@ -832,7 +830,7 @@
       </trans-unit>
       <trans-unit id="c2c89cdf45d46ea64d2ed2f9ac15dfa4d77e26ca" datatype="html">
         <source>Path for audio only downloads. It is relative to YTDL-Material's root folder.</source>
-        <target/>
+        <target>Percorso per download solo audio. È relativo alla cartella principale di YTDL-Material.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">107</context>
@@ -841,7 +839,7 @@
       </trans-unit>
       <trans-unit id="46826331da1949bd6fb74624447057099c9d20cd" datatype="html">
         <source>Video folder path</source>
-        <target/>
+        <target>Percorso cartella Video</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">113</context>
@@ -850,7 +848,7 @@
       </trans-unit>
       <trans-unit id="17c92e6d47a213fa95b5aa344b3f258147123f93" datatype="html">
         <source>Path for video downloads. It is relative to YTDL-Material's root folder.</source>
-        <target/>
+        <target>Percorso per il download di video. È relativo alla cartella principale di YTDL-Material.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">114</context>
@@ -859,7 +857,7 @@
       </trans-unit>
       <trans-unit id="6b995e7130b4d667eaab6c5f61b362ace486d26d" datatype="html">
         <source>Global custom args for downloads on the home page. Args are delimited using two commas like so: ,,</source>
-        <target/>
+        <target>Parametri personalizzati generali per i download sulla home page. I parametri sono delimitati da due virgole: ,,</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">121</context>
@@ -868,7 +866,7 @@
       </trans-unit>
       <trans-unit id="78e49b7339b4fa7184dd21bcaae107ce9b7076f6" datatype="html">
         <source>Use youtube-dl archive</source>
-        <target/>
+        <target>Usa l'archivio youtube-dl</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">127</context>
@@ -877,7 +875,7 @@
       </trans-unit>
       <trans-unit id="ffc19f32b1cba0daefc0e5668f89346db1db83ad" datatype="html">
         <source>Include thumbnail</source>
-        <target>Includi miniatura</target>
+        <target>Includi anteprima</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">131</context>
@@ -895,7 +893,7 @@
       </trans-unit>
       <trans-unit id="fb35145bfb84521e21b6385363d59221f436a573" datatype="html">
         <source>Kill all downloads</source>
-        <target>Elimina tutti gli scaricamenti</target>
+        <target>Interrompi tutti i download</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">139</context>
@@ -904,7 +902,7 @@
       </trans-unit>
       <trans-unit id="0ba25ad86a240576c4f20a2fada4722ebba77b1e" datatype="html">
         <source>Downloader</source>
-        <target>Scaricatore</target>
+        <target>Scaricato da</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">99</context>
@@ -913,7 +911,7 @@
       </trans-unit>
       <trans-unit id="61f8fd90b5f8cb20c70371feb2ee5e1fac5a9095" datatype="html">
         <source>Top title</source>
-        <target>Titolo principale</target>
+        <target>Titolo della barra superiore</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">152</context>
@@ -922,7 +920,7 @@
       </trans-unit>
       <trans-unit id="78d3531417c0d4ba4c90f0d4ae741edc261ec8df" datatype="html">
         <source>File manager enabled</source>
-        <target>Gestione file abilitato</target>
+        <target>Abilita il file manager</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">157</context>
@@ -931,7 +929,7 @@
       </trans-unit>
       <trans-unit id="a5a1be0a5df07de9eec57f5d2a86ed0204b2e75a" datatype="html">
         <source>Downloads manager enabled</source>
-        <target>Gestione scaricamento abilitato</target>
+        <target>Abilita il download manager</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">160</context>
@@ -940,7 +938,7 @@
       </trans-unit>
       <trans-unit id="c33bd5392b39dbed36b8e5a1145163a15d45835f" datatype="html">
         <source>Allow quality select</source>
-        <target>Consenti selezione di qualità</target>
+        <target>Consenti la selezione della qualità</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">163</context>
@@ -949,7 +947,7 @@
       </trans-unit>
       <trans-unit id="bda5508e24e0d77debb28bcd9194d8fefb1cfb92" datatype="html">
         <source>Download only mode</source>
-        <target>Modalità solo scaricamento</target>
+        <target>Modalità solo download</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">166</context>
@@ -958,7 +956,7 @@
       </trans-unit>
       <trans-unit id="09d31c803a7252658694e1e3176b97f5655a3fe3" datatype="html">
         <source>Allow multi-download mode</source>
-        <target>Consenti la modalità multi-scaricamento</target>
+        <target>Consenti la modalità di download multiplo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">169</context>
@@ -967,7 +965,7 @@
       </trans-unit>
       <trans-unit id="1c4dbce56d96b8974aac24a02f7ab2ee81415014" datatype="html">
         <source>Enable Public API</source>
-        <target>Abilita l'API pubblica</target>
+        <target>Abilita l'API Pubblica</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">177</context>
@@ -976,7 +974,7 @@
       </trans-unit>
       <trans-unit id="23bd81dcc30b74d06279a26d7a42e8901c1b124e" datatype="html">
         <source>Public API Key</source>
-        <target>Chiave API pubblica</target>
+        <target>Chiave API Pubblica</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">182</context>
@@ -1003,7 +1001,7 @@
       </trans-unit>
       <trans-unit id="00a94f58d9eb2e3aa561440eabea616d0c937fa2" datatype="html">
         <source>This will delete your old API key!</source>
-        <target>Questo cancellerà la tua vecchia chiave API!</target>
+        <target>Cancellerai la tua chiave API precedente!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">187</context>
@@ -1030,7 +1028,7 @@
       </trans-unit>
       <trans-unit id="8602e313cdfa7c4cc475ccbe86459fce3c3fd986" datatype="html">
         <source>Generating a key is easy!</source>
-        <target>La generazione di una chiave è facile!</target>
+        <target>Generare una chiave è facile!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">201</context>
@@ -1039,7 +1037,7 @@
       </trans-unit>
       <trans-unit id="9b3cedfa83c6d7acb3210953289d1be4aab115c7" datatype="html">
         <source>Click here</source>
-        <target>Clicca qui</target>
+        <target>Premi qui</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">211</context>
@@ -1056,7 +1054,7 @@
       </trans-unit>
       <trans-unit id="7f09776373995003161235c0c8d02b7f91dbc4df" datatype="html">
         <source>to download the official YoutubeDL-Material Chrome extension manually.</source>
-        <target>per scaricare manualmente l'estensione Chrome ufficiale YoutubeDL-Material.</target>
+        <target>per scaricare manualmente l'estensione ufficiale per Chrome di YoutubeDL-Material.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">211</context>
@@ -1065,7 +1063,7 @@
       </trans-unit>
       <trans-unit id="5b5296423906ab3371fdb2b5a5aaa83acaa2ee52" datatype="html">
         <source>You must manually load the extension and modify the extension's settings to set the frontend URL.</source>
-        <target>È necessario caricare manualmente l'estensione e modificare le impostazioni dell'estensione per impostare l'URL del frontend.</target>
+        <target>È necessario installare manualmente l'estensione e modificarne le impostazioni inserendo l'URL della pagina principale.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">212</context>
@@ -1092,7 +1090,7 @@
       </trans-unit>
       <trans-unit id="cb17ff8fe3961cf90f44bee97c88a3f3347a7e55" datatype="html">
         <source>Not much is required other than changing the extension's settings to set the frontend URL.</source>
-        <target>Non è richiesto molto altro che modificare le impostazioni dell'estensione per impostare l'URL del frontend.</target>
+        <target>Viene richiesto semplicemente di modificare le impostazioni dell'estensione, inserendo l'URL della pagina principale.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">218</context>
@@ -1101,7 +1099,7 @@
       </trans-unit>
       <trans-unit id="61b81b11aad0b9d970ece2fce18405f07eac69c2" datatype="html">
         <source>Drag the link below to your bookmarks, and you're good to go! Just navigate to the YouTube video you'd like to download, and click the bookmark.</source>
-        <target>Trascina il collegamento qui sotto nei tuoi segnalibri e sei a posto! Vai al video di YouTube che desideri scaricare e fai clic sul segnalibro.</target>
+        <target>Trascina il link qui sotto tra tuoi preferiti e sei a posto! Vai al video YouTube che desideri scaricare e fai clic sul preferito.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">223</context>
@@ -1110,7 +1108,7 @@
       </trans-unit>
       <trans-unit id="c505d6c5de63cc700f0aaf8a4b31fae9e18024e5" datatype="html">
         <source>Generate 'audio only' bookmarklet</source>
-        <target>Genera un segnalibro «solo audio»</target>
+        <target>Genera un preferito "solo audio"</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">224</context>
@@ -1119,7 +1117,7 @@
       </trans-unit>
       <trans-unit id="d5f69691f9f05711633128b5a3db696783266b58" datatype="html">
         <source>Extra</source>
-        <target>Avanzati</target>
+        <target>Extra</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">146</context>
@@ -1128,7 +1126,7 @@
       </trans-unit>
       <trans-unit id="5fab47f146b0a4b809dcebf3db9da94df6299ea1" datatype="html">
         <source>Use default downloading agent</source>
-        <target/>
+        <target>Usa agente di download predefinito</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">238</context>
@@ -1137,7 +1135,7 @@
       </trans-unit>
       <trans-unit id="ec71e08aee647ea4a71fd6b7510c54d84a797ca6" datatype="html">
         <source>Select a downloader</source>
-        <target>Seleziona un metodo di scaricamento</target>
+        <target>Seleziona un metodo di download</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">242</context>
@@ -1146,7 +1144,7 @@
       </trans-unit>
       <trans-unit id="0c43af932e6a4ee85500e28f01b3538b4eb27bc4" datatype="html">
         <source>Log Level</source>
-        <target/>
+        <target>Livello di Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">256</context>
@@ -1155,7 +1153,7 @@
       </trans-unit>
       <trans-unit id="db6c192032f4cab809aad35215f0aa4765761897" datatype="html">
         <source>Login expiration</source>
-        <target>Scadenza dell'accesso</target>
+        <target>Scadenza accesso</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">268</context>
@@ -1164,7 +1162,7 @@
       </trans-unit>
       <trans-unit id="dc3d990391c944d1fbfc7cfb402f7b5e112fb3a8" datatype="html">
         <source>Allow advanced download</source>
-        <target>Consenti lo scaricamento avanzato</target>
+        <target>Consenti download avanzato</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">279</context>
@@ -1173,7 +1171,7 @@
       </trans-unit>
       <trans-unit id="431e5f3a0dde88768d1074baedd65266412b3f02" datatype="html">
         <source>Use Cookies</source>
-        <target>Usa cookie</target>
+        <target>Usa i cookie</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">287</context>
@@ -1191,7 +1189,7 @@
       </trans-unit>
       <trans-unit id="bc2e854e111ecf2bd7db170da5e3c2ed08181d88" datatype="html">
         <source>Advanced</source>
-        <target>Avanzato</target>
+        <target>Avanzate</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">233</context>
@@ -1200,7 +1198,7 @@
       </trans-unit>
       <trans-unit id="37224420db54d4bc7696f157b779a7225f03ca9d" datatype="html">
         <source>Allow user registration</source>
-        <target>Consenti la registrazione utente</target>
+        <target>Consenti registrazione utente</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">302</context>
@@ -1236,7 +1234,7 @@
       </trans-unit>
       <trans-unit id="1db9789b93069861019bd0ccaa5d4706b00afc61" datatype="html">
         <source>LDAP URL</source>
-        <target/>
+        <target>URL LDAP</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">318</context>
@@ -1245,7 +1243,7 @@
       </trans-unit>
       <trans-unit id="f50fa6c09c8944aed504f6325f2913ee6c7a296a" datatype="html">
         <source>Bind DN</source>
-        <target/>
+        <target>Associa DN</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">323</context>
@@ -1254,7 +1252,7 @@
       </trans-unit>
       <trans-unit id="080cc6abcba236390fc22e79792d0d3443a3bd2a" datatype="html">
         <source>Bind Credentials</source>
-        <target/>
+        <target>Associa credenziali</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">328</context>
@@ -1263,7 +1261,7 @@
       </trans-unit>
       <trans-unit id="cfa67d14d84fe0e9fadf251dc51ffc181173b662" datatype="html">
         <source>Search Base</source>
-        <target/>
+        <target>Base di ricerca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">333</context>
@@ -1298,8 +1296,8 @@
         <note priority="1" from="description">Logs settings label</note>
       </trans-unit>
       <trans-unit id="fe8fd36dbf5deee1d56564965787a782a66eba44" datatype="html">
-        <source>{VAR_SELECT, select, true {Close} false {Cancel} other {otha} }</source>
-        <target/>
+        <source>{VAR_SELECT, select, true {Close} false {Cancel} other {otha}}</source>
+        <target>{VAR_SELECT, seleziona, vero {Close} falso {Cancel} altro {otha}}</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/settings/settings.component.html</context>
           <context context-type="linenumber">362</context>
@@ -1308,7 +1306,7 @@
       </trans-unit>
       <trans-unit id="cec82c0a545f37420d55a9b6c45c20546e82f94e" datatype="html">
         <source>About YoutubeDL-Material</source>
-        <target/>
+        <target>Informazioni su YoutubeDL-Material</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/about-dialog/about-dialog.component.html</context>
           <context context-type="linenumber">1</context>
@@ -1317,7 +1315,7 @@
       </trans-unit>
       <trans-unit id="199c17e5d6a419313af3c325f06dcbb9645ca618" datatype="html">
         <source>is an open-source YouTube downloader built under Google's Material Design specifications. You can seamlessly download your favorite videos as video or audio files, and even subscribe to your favorite channels and playlists to keep updated with their new videos.</source>
-        <target/>
+        <target>è un downloader di YouTube open source costruito secondo le specifiche Material Design di Google. Puoi scaricare agevolmente i tuoi video preferiti come file video o solo audio e persino iscriverti ai tuoi canali e playlist preferiti per tenerti aggiornato con i nuovi video pubblicati.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/about-dialog/about-dialog.component.html</context>
           <context context-type="linenumber">12</context>
@@ -1326,7 +1324,7 @@
       </trans-unit>
       <trans-unit id="bc0ad0ee6630acb7fcb7802ec79f5a0ee943c1a7" datatype="html">
         <source>has some awesome features included! An extensive API, Docker support, and localization (translation) support. Read up on all the supported features by clicking on the GitHub icon above.</source>
-        <target/>
+        <target>ha alcune fantastiche funzionalità incluse! Una solida API, supporto Docker e supporto per la localizzazione (traduzione). Leggi tutte le funzionalità supportate cliccando sull'icona GitHub in alto.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/about-dialog/about-dialog.component.html</context>
           <context context-type="linenumber">15</context>
@@ -1344,7 +1342,7 @@
       </trans-unit>
       <trans-unit id="e22f3a5351944f3a1a10cfc7da6f65dfbe0037fe" datatype="html">
         <source>Checking for updates...</source>
-        <target>Controllo degli aggiornamenti in corso…</target>
+        <target>Verifica aggiornamenti in corso...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/about-dialog/about-dialog.component.html</context>
           <context context-type="linenumber">20</context>
@@ -1362,7 +1360,7 @@
       </trans-unit>
       <trans-unit id="189b28aaa19b3c51c6111ad039c4fd5e2a22e370" datatype="html">
         <source>You can update from the settings menu.</source>
-        <target>È possibile aggiornare dal menù delle impostazioni.</target>
+        <target>È possibile eseguire l'aggiornamento dal menù impostazioni.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/about-dialog/about-dialog.component.html</context>
           <context context-type="linenumber">21</context>
@@ -1407,7 +1405,7 @@
       </trans-unit>
       <trans-unit id="a5ed099ffc9e96f6970df843289ade8a7d20ab9f" datatype="html">
         <source>Created:</source>
-        <target>Creato il:</target>
+        <target>Creato:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/user-profile-dialog/user-profile-dialog.component.html</context>
           <context context-type="linenumber">12</context>
@@ -1416,7 +1414,7 @@
       </trans-unit>
       <trans-unit id="fa96f2137af0a24e6d6d54c598c0af7d5d5ad344" datatype="html">
         <source>You are not logged in.</source>
-        <target>Non hai effettuato l'accesso.</target>
+        <target>Non hai eseguito l'accesso.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/user-profile-dialog/user-profile-dialog.component.html</context>
           <context context-type="linenumber">19</context>
@@ -1451,7 +1449,7 @@
       </trans-unit>
       <trans-unit id="a1dbca87b9f36d2b06a5cbcffb5814c4ae9b798a" datatype="html">
         <source>Create admin account</source>
-        <target>Crea un account di amministrazione</target>
+        <target>Crea un account amministratore</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/set-default-admin-dialog/set-default-admin-dialog.component.html</context>
           <context context-type="linenumber">1</context>
@@ -1460,7 +1458,7 @@
       </trans-unit>
       <trans-unit id="2d2adf3ca26a676bca2269295b7455a26fd26980" datatype="html">
         <source>No default admin account detected. This will create and set the password for an admin account with the user name as 'admin'.</source>
-        <target/>
+        <target>Nessun account amministratore predefinito rilevato. Verrà creato e impostata la password per un account amministratore con il nome utente "admin".</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/set-default-admin-dialog/set-default-admin-dialog.component.html</context>
           <context context-type="linenumber">5</context>
@@ -1514,7 +1512,7 @@
       </trans-unit>
       <trans-unit id="822fab38216f64e8166d368b59fe756ca39d301b" datatype="html">
         <source>Downloads</source>
-        <target>Scaricamenti</target>
+        <target>Download</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">46</context>
@@ -1523,7 +1521,7 @@
       </trans-unit>
       <trans-unit id="a249a5ae13e0835383885aaf697d2890cc3e53e9" datatype="html">
         <source>Share playlist</source>
-        <target>Condividi la scaletta</target>
+        <target>Condividi playlist</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/share-media-dialog/share-media-dialog.component.html</context>
           <context context-type="linenumber">2</context>
@@ -1559,7 +1557,7 @@
       </trans-unit>
       <trans-unit id="6580b6a950d952df847cb3d8e7176720a740adc8" datatype="html">
         <source>Use timestamp</source>
-        <target/>
+        <target>Usa data e ora</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/share-media-dialog/share-media-dialog.component.html</context>
           <context context-type="linenumber">13</context>
@@ -1595,7 +1593,7 @@
       </trans-unit>
       <trans-unit id="4d8a18b04a1f785ecd8021ac824e0dfd5881dbfc" datatype="html">
         <source>The download was successful</source>
-        <target>Lo scaricamento è riuscito</target>
+        <target>Il download è riuscito</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/download-item/download-item.component.html</context>
           <context context-type="linenumber">8</context>
@@ -1631,7 +1629,7 @@
       </trans-unit>
       <trans-unit id="77b0c73840665945b25bd128709aa64c8f017e1c" datatype="html">
         <source>Download start:</source>
-        <target>Inizio scaricamento:</target>
+        <target>Inizio download:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/download-item/download-item.component.html</context>
           <context context-type="linenumber">32</context>
@@ -1640,7 +1638,7 @@
       </trans-unit>
       <trans-unit id="08ff9375ec078065bcdd7637b7ea65fce2979266" datatype="html">
         <source>Download end:</source>
-        <target>Fine scaricamento:</target>
+        <target>Termine download:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/download-item/download-item.component.html</context>
           <context context-type="linenumber">35</context>
@@ -1658,7 +1656,7 @@
       </trans-unit>
       <trans-unit id="a9806cf78ce00eb2613eeca11354a97e033377b8" datatype="html">
         <source>Subscribe to playlist or channel</source>
-        <target>Iscriviti alla scaletta o al canale</target>
+        <target>Iscriviti alla playlist o al canale</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/subscribe-dialog/subscribe-dialog.component.html</context>
           <context context-type="linenumber">1</context>
@@ -1667,7 +1665,7 @@
       </trans-unit>
       <trans-unit id="93efc99ae087fc116de708ecd3ace86ca237cf30" datatype="html">
         <source>The playlist or channel URL</source>
-        <target>L'URL della La scaletta o del canale</target>
+        <target>URL della playlist o del canale</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/subscribe-dialog/subscribe-dialog.component.html</context>
           <context context-type="linenumber">9</context>
@@ -1737,7 +1735,7 @@
       </trans-unit>
       <trans-unit id="f432e1a8d6adb12e612127978ce2e0ced933959c" datatype="html">
         <source>These are added after the standard args.</source>
-        <target>Questi vengono aggiunti dopo gli argomenti standard.</target>
+        <target>Questi vengono aggiunti dopo ai parametri standard.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/subscribe-dialog/subscribe-dialog.component.html</context>
           <context context-type="linenumber">53</context>
@@ -1750,7 +1748,7 @@
       </trans-unit>
       <trans-unit id="98b6ec9ec138186d663e64770267b67334353d63" datatype="html">
         <source>Custom file output</source>
-        <target>Uscita file personalizzato</target>
+        <target>File di uscita personalizzato</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/subscribe-dialog/subscribe-dialog.component.html</context>
           <context context-type="linenumber">59</context>
@@ -1799,7 +1797,7 @@
       </trans-unit>
       <trans-unit id="3042bd3ad8dffcfeca5fd1ae6159fd1047434e95" datatype="html">
         <source>Unsubscribe</source>
-        <target>Disiscriviti</target>
+        <target>Annulla l'iscrizione</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/subscription-info-dialog/subscription-info-dialog.component.html</context>
           <context context-type="linenumber">26</context>
@@ -1835,7 +1833,7 @@
       </trans-unit>
       <trans-unit id="4636cd4a1379c50d471e98786098c4d39e1e82ad" datatype="html">
         <source>You have no channel subscriptions.</source>
-        <target>Non hai abbonamenti ai canali.</target>
+        <target>Non sei iscritto a nessun canale.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/subscriptions/subscriptions.component.html</context>
           <context context-type="linenumber">24</context>
@@ -1853,7 +1851,7 @@
       </trans-unit>
       <trans-unit id="2e0a410652cb07d069f576b61eab32586a18320d" datatype="html">
         <source>Name not available. Playlist retrieval in progress.</source>
-        <target>Nome non disponibile. Recupero del canale in corso.</target>
+        <target>Nome non disponibile. Recupero playlist in corso.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/subscriptions/subscriptions.component.html</context>
           <context context-type="linenumber">33</context>
@@ -1862,7 +1860,7 @@
       </trans-unit>
       <trans-unit id="587b57ced54965d8874c3fd0e9dfedb987e5df04" datatype="html">
         <source>You have no playlist subscriptions.</source>
-        <target>Non hai abbonamenti a scalette.</target>
+        <target>Non sei iscritto a nessuna playlist.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/subscriptions/subscriptions.component.html</context>
           <context context-type="linenumber">43</context>
@@ -1919,7 +1917,7 @@
       </trans-unit>
       <trans-unit id="2031adb51e07a41844e8ba7704b054e98345c9c1" datatype="html">
         <source>Delete forever</source>
-        <target>Elimina per sempre</target>
+        <target>Elimina definitivamente</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/subscription/subscription-file-card/subscription-file-card.component.html</context>
           <context context-type="linenumber">9</context>
@@ -1932,7 +1930,7 @@
       </trans-unit>
       <trans-unit id="91ecce65f1d23f9419d1c953cd6b7bc7f91c110e" datatype="html">
         <source>Updater</source>
-        <target>Aggiornatore</target>
+        <target>Aggiornato da</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/dialogs/update-progress-dialog/update-progress-dialog.component.html</context>
           <context context-type="linenumber">1</context>
@@ -1981,7 +1979,7 @@
       </trans-unit>
       <trans-unit id="b6c453e0e61faea184bbaf5c5b0a1e164f4de2a2" datatype="html">
         <source>Clear all downloads</source>
-        <target>Cancella tutti gli scaricamenti</target>
+        <target>Cancella tutti i download</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/components/downloads/downloads.component.html</context>
           <context context-type="linenumber">18</context>
@@ -1990,7 +1988,7 @@
       </trans-unit>
       <trans-unit id="7117fc42f860e86d983bfccfcf2654e5750f3406" datatype="html">
         <source>No downloads available!</source>
-        <target>Nessuno scaricamento disponibile!</target>
+        <target>Nessun download disponibile!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/components/downloads/downloads.component.html</context>
           <context context-type="linenumber">25</context>
@@ -2017,7 +2015,7 @@
       </trans-unit>
       <trans-unit id="2bd201aea09e43fbfd3cd15ec0499b6755302329" datatype="html">
         <source>Manage user</source>
-        <target>Gestisci l'utente</target>
+        <target>Gestisci utente</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/components/manage-user/manage-user.component.html</context>
           <context context-type="linenumber">1</context>
@@ -2030,7 +2028,7 @@
       </trans-unit>
       <trans-unit id="29c97c8e76763bb15b6d515648fa5bd1eb0f7510" datatype="html">
         <source>User UID:</source>
-        <target/>
+        <target>UID utente:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/components/manage-user/manage-user.component.html</context>
           <context context-type="linenumber">4</context>
@@ -2092,7 +2090,7 @@
       </trans-unit>
       <trans-unit id="57c6c05d8ebf4ef1180c2705033c044f655bb2c4" datatype="html">
         <source>Manage role</source>
-        <target>Gestisci il ruolo</target>
+        <target>Gestisci ruolo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/components/manage-role/manage-role.component.html</context>
           <context context-type="linenumber">1</context>
@@ -2128,7 +2126,7 @@
       </trans-unit>
       <trans-unit id="632e8b20c98e8eec4059a605a4b011bb476137af" datatype="html">
         <source>Edit user</source>
-        <target>Modifica l'utente</target>
+        <target>Modifica utente</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/components/modify-users/modify-users.component.html</context>
           <context context-type="linenumber">66</context>
@@ -2137,7 +2135,7 @@
       </trans-unit>
       <trans-unit id="95b95a9c79e4fd9ed41f6855e37b3b06af25bcab" datatype="html">
         <source>Delete user</source>
-        <target>Elimina l'utente</target>
+        <target>Elimina utente</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/components/modify-users/modify-users.component.html</context>
           <context context-type="linenumber">73</context>
@@ -2155,7 +2153,7 @@
       </trans-unit>
       <trans-unit id="b0d7dd8a1b0349622d6e0c6e643e24a9ea0efa1d" datatype="html">
         <source>Edit Role</source>
-        <target>Modifica il ruolo</target>
+        <target>Modifica ruolo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/components/modify-users/modify-users.component.html</context>
           <context context-type="linenumber">95</context>
@@ -2200,7 +2198,7 @@
       </trans-unit>
       <trans-unit id="a0720c36ee1057e5c54a86591b722485c62d7b1a" datatype="html">
         <source>Go to subscription</source>
-        <target>Vai agli abbonamenti</target>
+        <target>Vai alle iscrizioni</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/components/unified-file-card/unified-file-card.component.html</context>
           <context context-type="linenumber">20</context>
@@ -2215,6 +2213,269 @@
           <context context-type="linenumber">20</context>
         </context-group>
         <note priority="1" from="description">My videos title</note>
+      </trans-unit>
+      <trans-unit id="ef418d4ece7c844f3a5e431da1aa59bedd88da7b" datatype="html">
+        <source>Global custom args</source>
+        <target>Parametri personalizzati generali</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+        <note priority="1" from="description">Custom args input placeholder</note>
+      </trans-unit>
+      <trans-unit id="56a2a773fbd5a6b9ac2e6b89d29d70a2ed0f3227" datatype="html">
+        <source>See less.</source>
+        <target>Nascondi.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/see-more/see-more.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+        <note priority="1" from="description">See less</note>
+      </trans-unit>
+      <trans-unit id="84ffcebac2709ca0785f4a1d5ba274433b5beabc" datatype="html">
+        <source>Also known as a Client ID.</source>
+        <target>Conosciuto anche come Client ID.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">249</context>
+        </context-group>
+        <note priority="1" from="description">Twitch API Key setting hint AKA preamble</note>
+      </trans-unit>
+      <trans-unit id="cfe829634b1144bc44b6d38cf5584ea65db9804f" datatype="html">
+        <source>Default file output</source>
+        <target>File output predefinito</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+        <note priority="1" from="description">Default file output placeholder</note>
+      </trans-unit>
+      <trans-unit id="3d1a47dc18b7bd8b5d9e1eb44b235ed9c4a2b513" datatype="html">
+        <source>Redownload fresh uploads</source>
+        <target>Riscarica i nuovi contenuti</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+        <note priority="1" from="description">Redownload fresh uploads</note>
+      </trans-unit>
+      <trans-unit id="13759b09a7f4074ceee8fa2f968f9815fdf63295" datatype="html">
+        <source>Sometimes new videos are downloaded before being fully processed. This setting will mean new videos will be checked for a higher quality version the following day.</source>
+        <target>A volte i nuovi video vengono scaricati prima di essere completamente elaborati. Questa impostazione significa che per i nuovi video verrà effettuata una verifica il giorno successivo per la ricerca di versioni di qualità superiore.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+        <note priority="1" from="description">Redownload fresh uploads tooltip</note>
+      </trans-unit>
+      <trans-unit id="ddc31f2885b1b33a7651963254b0c197f2a64086" datatype="html">
+        <source>See more.</source>
+        <target>Vedi altro.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/see-more/see-more.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+        <note priority="1" from="description">See more</note>
+      </trans-unit>
+      <trans-unit id="24dc3ecf7ec2c2144910c4f3d38343828be03a4c" datatype="html">
+        <source>Auto-generated</source>
+        <target>Generato automaticamente</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/unified-file-card/unified-file-card.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">Auto-generated label</note>
+      </trans-unit>
+      <trans-unit id="c776eb4992b6c98f58cd89b20c1ea8ac37888521" datatype="html">
+        <source>Select a download agent</source>
+        <target>Seleziona un agente di download</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">299</context>
+        </context-group>
+        <note priority="1" from="description">Custom downloader select label</note>
+      </trans-unit>
+      <trans-unit id="5fb1e0083c9b2a40ac8ae7dcb2618311c291b8b9" datatype="html">
+        <source>Auto-download Twitch Chat</source>
+        <target>Scarica automaticamente le Chat Twitch</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">244</context>
+        </context-group>
+        <note priority="1" from="description">Auto download Twitch Chat setting</note>
+      </trans-unit>
+      <trans-unit id="8ae23bc4302a479f687f4b20a84c276182e2519c" datatype="html">
+        <source>Twitch API Key</source>
+        <target>Chiave dell'API Twitch</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">248</context>
+        </context-group>
+        <note priority="1" from="description">Twitch API Key setting placeholder</note>
+      </trans-unit>
+      <trans-unit id="d162f9fcd6a7187b391e004f072ab3da8377c47d" datatype="html">
+        <source>Use Twitch API</source>
+        <target>Usa l'API Twitch</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">241</context>
+        </context-group>
+        <note priority="1" from="description">Use Twitch API setting</note>
+      </trans-unit>
+      <trans-unit id="04201f9d27abd7d6f58a4328ab98063ce1072006" datatype="html">
+        <source>Categories</source>
+        <target>Categorie</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">144</context>
+        </context-group>
+        <note priority="1" from="description">Categories</note>
+      </trans-unit>
+      <trans-unit id="1148fd45287ff09955b938756bc302042bcb29c7" datatype="html">
+        <source>Path is relative to the above download paths. Don't include extension.</source>
+        <target>Il percorso è riferito ai percorsi di download sopra. Non includere l'estensione.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/settings/settings.component.html</context>
+          <context context-type="linenumber">126</context>
+        </context-group>
+        <note priority="1" from="description">Custom Output input hint</note>
+      </trans-unit>
+      <trans-unit id="dad95154dcef3509b8cc705046061fd24994bbb7" datatype="html">
+        <source>views</source>
+        <target>visualizzazioni</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/player/player.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <note priority="1" from="description">View count label</note>
+      </trans-unit>
+      <trans-unit id="792dc6a57f28a1066db283f2e736484f066005fd" datatype="html">
+        <source>Download Twitch Chat</source>
+        <target>Scarica Chat Twitch</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/twitch-chat/twitch-chat.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <note priority="1" from="description">Download Twitch Chat button</note>
+      </trans-unit>
+      <trans-unit id="e4eeb9106dbcbc91ca1ac3fb4068915998a70f37" datatype="html">
+        <source>Add new rule</source>
+        <target>Aggiungi nuova regola</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/edit-category-dialog/edit-category-dialog.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <note priority="1" from="description">Add new rule tooltip</note>
+      </trans-unit>
+      <trans-unit id="2489eefea00931942b91f4a1ae109514b591e2e1" datatype="html">
+        <source>Rules</source>
+        <target>Regole</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/edit-category-dialog/edit-category-dialog.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <note priority="1" from="description">Rules</note>
+      </trans-unit>
+      <trans-unit id="c3b0b86523f1d10e84a71f9b188d54913a11af3b" datatype="html">
+        <source>Editing category</source>
+        <target>Categoria in modifica</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/edit-category-dialog/edit-category-dialog.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">Editing category dialog title</note>
+      </trans-unit>
+      <trans-unit id="07db550ae114d9faad3a0cbb68bcc16ab6cd31fc" datatype="html">
+        <source>Paused</source>
+        <target>In pausa</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/edit-subscription-dialog/edit-subscription-dialog.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <note priority="1" from="description">Paused subscription setting</note>
+      </trans-unit>
+      <trans-unit id="73423607944a694ce6f9e55cfee329681bb4d9f9" datatype="html">
+        <source>No videos found.</source>
+        <target>Nessun video trovato.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/recent-videos/recent-videos.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <note priority="1" from="description">No videos found</note>
+      </trans-unit>
+      <trans-unit id="29376982b1205d9d6ea3d289e8e2f8e1ac2839b1" datatype="html">
+        <source>Reverse order</source>
+        <target>Ordine inverso</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/modify-playlist/modify-playlist.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <note priority="1" from="description">Reverse order</note>
+      </trans-unit>
+      <trans-unit id="33026f57ea65cd9c8a5d917a08083f71a718933a" datatype="html">
+        <source>Normal order</source>
+        <target>Ordine normale</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/modify-playlist/modify-playlist.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">Normal order</note>
+      </trans-unit>
+      <trans-unit id="5caadefa4143cf6766a621b0f54f91f373a1f164" datatype="html">
+        <source>Add content</source>
+        <target>Aggiungi contenuto</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/modify-playlist/modify-playlist.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <note priority="1" from="description">Add content</note>
+      </trans-unit>
+      <trans-unit id="0cc1dec590ecd74bef71a865fb364779bc42a749" datatype="html">
+        <source>Category:</source>
+        <target>Categoria:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/video-info-dialog/video-info-dialog.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <note priority="1" from="description">Category property</note>
+      </trans-unit>
+      <trans-unit id="303e45ffae995c9817e510e38cb969e6bb3adcbf" datatype="html">
+        <source>(Paused)</source>
+        <target>(In pausa)</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/subscription-info-dialog/subscription-info-dialog.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/edit-subscription-dialog/edit-subscription-dialog.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/subscriptions/subscriptions.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/subscriptions/subscriptions.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/subscription/subscription/subscription.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">Paused suffix</note>
+      </trans-unit>
+      <trans-unit id="d641b8fa5ac5e85114c733b1f7de6976bd091f70" datatype="html">
+        <source>Max quality</source>
+        <target>Qualità massima</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/subscribe-dialog/subscribe-dialog.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/dialogs/edit-subscription-dialog/edit-subscription-dialog.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+        <note priority="1" from="description">Max quality placeholder</note>
       </trans-unit>
     </body>
   </file>
